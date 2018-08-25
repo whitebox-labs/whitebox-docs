@@ -1,8 +1,10 @@
 # Frequently Asked Questions
 
 ## Did you read the datasheets of your EZO Circuits?
-[filename](../common/faq-ezo-datasheets.md ':include')
-.
+Atlas Scientific has done a great job in documenting their products in beautiful datasheets.
+
+Please download and read the datasheets of your Circuits:
+
 [filename](../common/ezo-datasheets.md ':include')
 
 ## My Circutit cant' be detected
