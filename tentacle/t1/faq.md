@@ -15,4 +15,5 @@ Try connecting to your sensor circuit after each of these steps:
 1. Try a putting your circuit into a different channel slot on the shield
 1. [Manually switch](protocols.md#set-protocol-manually) your circuit to the other protocol and back.
 
+## My readings are not correct
 [filename](../common/readings-not-correct.md ':include')
