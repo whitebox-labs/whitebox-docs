@@ -1,11 +1,7 @@
 # Frequently Asked Questions
 
 ## Did you read the datasheets of your EZO Circuits?
-Atlas Scientific has done an incredible job in creating comprehensive and beautiful datasheets that are easy to understand.
-
-Please download and read the datasheets of your Circuits:
-
-[filename](../common/ezo-datasheets.md ':include')
+[filename](../common/faq-ezo-datasheets.md ':include')
 
 ## My Circutit cant' be detected
 Try connecting to your sensor circuit after each of these steps:
@@ -16,4 +12,4 @@ Try connecting to your sensor circuit after each of these steps:
 1. [Manually switch](protocols.md#set-protocol-manually) your circuit to the other protocol and back.
 
 ## My readings are not correct
-[filename](../common/readings-not-correct.md ':include')
+[filename](../common/faq-readings-not-correct.md ':include')
