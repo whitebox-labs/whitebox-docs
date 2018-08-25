@@ -1,6 +1,8 @@
 # Frequently Asked Questions
 
 ## Did you read the datasheets of your EZO Circuits?
+[filename](../common/ezo-datasheets.md ':include')
+
 [filename](../common/faq-ezo-datasheets.md ':include')
 
 ## My Circutit cant' be detected
