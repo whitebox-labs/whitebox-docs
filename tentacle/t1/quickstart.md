@@ -13,7 +13,7 @@ For this quickstart tutorial you need:
 
 ## Setup Procedure
 
-!> Your Arduino is **off** and the Tentacle Shield is not yet plugged into the Arduino.
+?> Your Arduino should be **off** and the Tentacle Shield not yet plugged into the Arduino.
 
 
 1. Plug your Atlas Scientific circuits into the Tentacle Shield
