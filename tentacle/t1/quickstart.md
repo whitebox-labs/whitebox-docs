@@ -58,4 +58,4 @@ Whatever you type now, is directly sent to the circuit on serial channel 0. For 
 Congratulations, you’re all set to configure and use your Atlas Scientific circuits! Grab the datasheet of your EZO circuit and start exploring all the available commands.
 
 ## EZO Circuit Datasheets
-[filename](ezo-datasheets.md ':include')
+[filename](../common/ezo-datasheets.md ':include')
