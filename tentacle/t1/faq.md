@@ -5,7 +5,7 @@ Atlas Scientific has done an incredible job in creating comprehensive and beauti
 
 Please download and read the datasheets of your Circuits:
 
-[filename](ezo-datasheets.md ':include')
+[filename](../common/ezo-datasheets.md ':include')
 
 ## My Circutit cant' be detected
 Try connecting to your sensor circuit after each of these steps:
