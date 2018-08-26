@@ -15,10 +15,12 @@ Individually isolated measurement circuits and communication lines prevent noise
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
 
-## Examples
+## Code Examples
 * [Continuous Readings](continuous-example.md)
 * [Continuous, Asynchronous Readings](asynchronous-example.md)
 * [Interactive, Bidirectional Communications](interactive-example.md)
+
+?>[Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples) `git clone https://github.com/whitebox-labs/tentacle-examples.git`
 
 
 ## Downloads
