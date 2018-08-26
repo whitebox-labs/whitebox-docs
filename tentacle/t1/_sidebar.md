@@ -15,10 +15,12 @@
   * [Jumper Settings](jumpers.md)
   * [UART Multiplexer](muxer.md)
 
-* Examples
+* Code Examples
   * [Continuous readings](continuous-example.md)
   * [Continuous, asynchronous readings](asynchronous-example.md)
   * [Interactive, bidirectional communications](interactive-example.md)
+  * [Download all examples (zip)](https://github.com/whitebox-labs/tentacle-examples/archive/master.zip)
+  * [Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples)
 
 * Troubleshooting
   * [FAQ](faq.md)
