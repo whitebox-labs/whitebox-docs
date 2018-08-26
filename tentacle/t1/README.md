@@ -14,7 +14,7 @@ An Arduino shield to host and individually isolate up to 4 EZO Circuits from [At
 
 Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements even in closed-loop systems.
 
-_Made in Switzerland_ ![Tentacle Shield](https://www.whiteboxes.ch/wp-content/themes/storefront-child-theme-master/assets/images/Flag_of_Switzerland.svg ':size=20x20')
+_Made in Switzerland_ ![Switzerland](_media/its-flag-is-a-big-plus.png)
 
 _Designed for_
 ![Tentacle Shield](_media/arduino_logo.png ':size=40')
