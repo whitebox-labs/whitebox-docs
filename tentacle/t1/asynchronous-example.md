@@ -30,16 +30,7 @@ You can find all code mentioned on this page, including a special Arduino Yún v
 
 ## I2C mode
 
-1. Set all your circuits to I2C mode. Learn how to do this in our guide I2C or UART?
-1. Set all circuits to a unique I2C address - this is important in case you have multiple of the same circuit type, e.g. 2x EZO pH circuit
-1. Copy the code below to to your Arduino sketch
-1. Adjust the variables in the code to resemble your setup  (see the in-code comments for an explanation on how these work):
- * TOTAL_CIRCUITS
- * channel_ids
- * channel_names
-1. Upload the code to your Arduino
-1. Open the Arduino IDE serial monitor `@9600 baud`
-1. See the stream of data coming in
+[filename](../common/asynchronous-example-i2c.md ':include')
 
 [](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/asynchronous/i2c_asynchronous/i2c_asynchronous.ino ':include :type=code arduino')
 
