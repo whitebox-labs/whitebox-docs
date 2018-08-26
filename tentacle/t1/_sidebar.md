@@ -1,4 +1,4 @@
-[![Tentacle Shield for Arduino](_media/tentacle_t1.png)](/)
+[Tentacle Shield for Arduino](_media/tentacle_t1.png)]
 
 * Getting started
   * [Introduction](/)
