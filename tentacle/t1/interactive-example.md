@@ -12,7 +12,7 @@ You can find all code mentioned on this page, including a special Arduino Yún v
 
 
 ## UART mode
-1. Set all your circuits to UART mode. This is the circuits factory setting.
+1. Set all your circuits to `UART` mode. This is the circuits factory setting.
 1. Copy the code below to to your Arduino sketch
 1. Upload the code to your Arduino
 1. Open the Arduino IDE serial monitor `@9600 baud`
@@ -25,13 +25,7 @@ You can find all code mentioned on this page, including a special Arduino Yún v
 
 ## I2C mode
 
-1. Set all your circuits to I2C mode. Learn how to do this in our guide I2C or UART?
-1. Set all circuits to a unique I2C address - this is important in case you have multiple of the same circuit type, e.g. 2x EZO pH circuit
-1. Copy the code below to to your Arduino sketch
-1. Upload the code to your Arduino
-1. Open the Arduino IDE serial monitor `@9600 baud`
-1. Type the channel number, a colon and the command into the serial monitor like so:
-`99:r` or `99:i`
+[filename](../common/interactive-example-i2c.md ':include')
 
 [](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/interactive/i2c_interactive/i2c_interactive.ino ':include :type=code arduino')
 
