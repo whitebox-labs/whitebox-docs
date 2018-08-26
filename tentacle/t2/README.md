@@ -10,6 +10,7 @@ An Arduino shield to host and individually isolate up to 2 sensor circuits from 
 * 2 channels
 * 3.3V and 5V compatible
 * I2C only
+* stackable
 
 Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements.
 
