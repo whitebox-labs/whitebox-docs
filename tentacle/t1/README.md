@@ -19,7 +19,6 @@ _Made in Switzerland_ ![Switzerland](_media/its-flag-is-a-big-plus.png)
 _Designed for_
 ![Arduino Logo](_media/arduino_logo.png ':size=40')![Arduino Logo](_media/atlas_scientific.png ':size=100')
 
-
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
 
