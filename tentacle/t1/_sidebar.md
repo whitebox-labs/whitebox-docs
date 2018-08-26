@@ -1,3 +1,5 @@
+![Tentacle Mini](_media/tentacle_t1.png)
+
 * Getting started
   * [Introduction](/)
   * [Quick start](quickstart.md)
