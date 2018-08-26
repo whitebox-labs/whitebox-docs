@@ -20,9 +20,6 @@ Individually isolated measurement circuits and communication lines prevent noise
 * [Continuous, Asynchronous Readings](asynchronous-example.md)
 * [Interactive, Bidirectional Communications](interactive-example.md)
 * [Download all examples (zip)](https://github.com/whitebox-labs/tentacle-examples/archive/master.zip)
-* [Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples)
-`git clone https://github.com/whitebox-labs/tentacle-examples.git`
-
 
 ## Downloads
 * [Tentacle Setup Sketch](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/tentacle-setup/tentacle_setup/tentacle_setup.ino ':target=_blank')
