@@ -11,10 +11,10 @@
 
 ## Power Consumption
 * ~140mA @ 5V
- * that's ~35mA per channel, drawn at all times (even if no EZO Circuit present)
-* Add the power consumption of your respective EZO Circuits @5V:
- * EZO pH: 57mA
- * EZO ORP: 58mA
- * EZO EC: 82mA
- * EZO DO: 53mA
- * EZO RTD: 59mA
+ * (~35mA per isolated channel)
+
+**Add the consumption of each of your EZO Circuits**
+
+max. power @5V:
+
+[filename](../common/ezo-power-consumption.md ':include')
