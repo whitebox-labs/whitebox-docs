@@ -2,6 +2,8 @@
 
 ## Arduino Compatibility
 
+![Arduino Compatibility](_media/t1-compatibility.png)
+
 ### Compatible Boards
 * Arduino Uno (R3)
 * Arduino Mega 2560 (R3)
@@ -11,6 +13,7 @@
 * and all Arduino-compatible boards with **5V tolerant** I/O pins
 
 !> The Tentacle Shield feeds **5V** to the Arduino I/O pins. **Make sure your Arduino has 5V tolerant pins**.
+
 
 ### Incompatible Boards
 

@@ -2,6 +2,8 @@
 
 ## Arduino Compatibility
 
+![Arduino Compatibility](_media/t2-compatibility.png)
+
 ### Compatible Boards
 * Arduino Uno (R3)
 * Arduino Mega 2560 (R3)
