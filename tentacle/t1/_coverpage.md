@@ -1,6 +1,6 @@
 ![logo](_media/tentacle_t1.png)
 
-# Whitebox Tentacle Shield <small>for Arduino</small>
+# Tentacle Shield <small>for Arduino</small>
 
 > Documentation
 
