@@ -17,11 +17,16 @@ _Compatible with_
 
 ![Arduino Logo](_media/designed-for-arduino-atlas.png)
 
-* 4 channels
-* 5V only
+* 4 fully isolated channels for **Atlas Scientific EZO Circuits**
+* `5V` only
+* `I2C` and `UART` compatible
 * stackable
 
-Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements even in closed-loop systems.
+?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
+
+_Works with_
+
+![Arduino Logo](_media/designed-for-arduino-atlas.png)
 
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
