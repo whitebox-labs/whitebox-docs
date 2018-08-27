@@ -18,7 +18,7 @@ An Arduino shield to host and individually isolate up to 4 EZO Circuits from [At
 * `I2C` and `UART` compatible
 * stackable
 
-?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
+?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings. 
 
 _Works with_
 
