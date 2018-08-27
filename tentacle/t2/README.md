@@ -17,7 +17,7 @@ _Compatible with_
 
 ![Arduino Logo](_media/designed-for-arduino-atlas.png)
 
-* 2 channels
+* 2 fully isolated channels for _Atlas Scientific EZO Circuits_
 * 3.3V and 5V compatible
 * I2C only
 * stackable
