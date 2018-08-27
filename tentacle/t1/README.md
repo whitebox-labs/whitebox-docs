@@ -16,9 +16,6 @@ _Compatible with_ ![Arduino Logo](_media/designed-for-arduino-atlas.png)
 
 Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements even in closed-loop systems.
 
-![Whitebox Logo](_media/whitebox_logo.png)
-*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
-
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
 
@@ -51,6 +48,8 @@ The Tentacle Shield is [certified](http://certificate.oshwa.org/certification-di
 
 Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 
+![Whitebox Logo](_media/whitebox_logo.png)
+*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
 
 ## Buy
 * From [our store](https://www.whiteboxes.ch/shop/tentacle/) – we ship worldwide
