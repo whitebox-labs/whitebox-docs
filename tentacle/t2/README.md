@@ -4,6 +4,12 @@ This documentation is for **Tentacle Mini for Arduino**, model `T2.16`
 
 ![Tentacle Mini](/_media/tentacle-t2.jpg)
 
+_Atlas Scientific EZO-class devices are not included_
+
+<small>Made by</small>
+
+![Whitebox Logo](_media/whitebox_logo.png)
+
 ## What's the Tentacle Mini?
 An Arduino shield to host and individually isolate up to 2 sensor circuits from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.) and Oxidation-Reduction Potential (ORP), RTD (Temperature).
 
@@ -17,9 +23,6 @@ _Compatible with_
 * stackable
 
 Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements.
-
-![Whitebox Logo](_media/whitebox_logo.png)
-*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
 
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
@@ -58,8 +61,5 @@ Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 ## Buy
 * From [our store](https://www.whiteboxes.ch/shop/tentacle-mini/) – we ship worldwide
 * or from one of our [Distributors](https://www.whiteboxes.ch/distributors)
-
-<hr/>
-[![Whitebox Logo](_media/whitebox_logo.png)](https://www.whiteboxes.ch/)
 
 *Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
