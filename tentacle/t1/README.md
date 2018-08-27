@@ -8,7 +8,9 @@ This documentation is for **Tentacle Shield for Arduino**, models `T1.15A` and `
 ## What's the Tentacle Shield?
 An Arduino shield to host and individually isolate up to 4 EZO Circuits from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.), Oxidation-Reduction Potential (ORP) and RTD (Temperature).
 
-_Compatible with_ ![Arduino Logo](_media/designed-for-arduino-atlas.png)
+_Compatible with_
+
+![Arduino Logo](_media/designed-for-arduino-atlas.png)
 
 * 4 channels
 * 5V only
@@ -48,9 +50,11 @@ The Tentacle Shield is [certified](http://certificate.oshwa.org/certification-di
 
 Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 
-![Whitebox Logo](_media/whitebox_logo.png)
-*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
-
 ## Buy
 * From [our store](https://www.whiteboxes.ch/shop/tentacle/) – we ship worldwide
 * or from one of our [Distributors](https://www.whiteboxes.ch/distributors)
+
+<hr/>
+[![Whitebox Logo](_media/whitebox_logo.png)](https://www.whiteboxes.ch/)
+
+*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
