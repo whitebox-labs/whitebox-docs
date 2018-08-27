@@ -15,14 +15,3 @@ This procedure toggles the protocol between `UART` and `I2C`. If the EZO Circuit
 1. **Remove** power (GND, 5V)
 
 ?> The device is now using the new protocol (repeat above steps to toggle back to the other protocol)
-
-### Factory defaults
-If the EZO Circuit is manually switched to `I2C`, its ID is reset to the factory default:
-
-* `EZO DO`: **97** _(0x60)_
-* `EZO ORP`: **98** _(0x61)_
-* `EZO pH`: **99** _(0x63)_
-* `EZO EC`: **100** _(0x64)_
-* `EZO RTD`: **102** _(0x66)_
-
-If the EZO Circuit is manually switched to `UART`, its baudrate is reset to the factory default of `9600`.
