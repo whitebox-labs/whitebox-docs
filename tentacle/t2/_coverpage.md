@@ -17,3 +17,4 @@
 <!-- background color -->
 
 <!--![color](#f0f0f0)-->
+![color](linear-gradient(to left bottom, #f0f0f0 0%, #eafdfe 100%))
