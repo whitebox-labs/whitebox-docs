@@ -7,12 +7,17 @@ This documentation is for **Tentacle Mini for Arduino**, model `T2.16`
 ## What's the Tentacle Mini?
 An Arduino shield to host and individually isolate up to 2 sensor circuits from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.) and Oxidation-Reduction Potential (ORP), RTD (Temperature).
 
+_Compatible with_ ![Arduino Logo](_media/designed-for-arduino-atlas.png)
+
 * 2 channels
 * 3.3V and 5V compatible
 * I2C only
 * stackable
 
 Individually isolated measurement circuits and communication lines prevent noise and ground loops for precise measurements.
+
+![Whitebox Logo](_media/whitebox_logo.png)
+*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
 
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
