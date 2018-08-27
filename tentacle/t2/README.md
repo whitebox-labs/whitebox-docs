@@ -1,6 +1,6 @@
 # Introduction
 
-This Documentation is for model `T2.16`
+This documentation is for **Tentacle Mini for Arduino**, model `T2.16`
 
 ![Tentacle Mini](/_media/tentacle-t2.jpg)
 

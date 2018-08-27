@@ -1,6 +1,6 @@
 # Introduction
 
-This Documentation is for models `T1.15A` and `T1.16`
+This documentation is for **Tentacle Shield for Arduino**, models `T1.15A` and `T1.16`
 
 ![Tentacle Shield](https://www.whiteboxes.ch/wp-content/uploads/2015/06/medium_schraeg_schatten1.jpg)
 
