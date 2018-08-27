@@ -7,13 +7,13 @@ For this quickstart tutorial you need:
 * A [Tentacle Mini for Arduino](https://www.whiteboxes.ch/shop/tentacle-mini/)
 * The [Tentacle Setup Sketch](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/tentacle-setup/tentacle_setup/tentacle_setup.ino ':target=_blank')
 
-!> **I2C only** The Tentacle Mini works with EZO circuits in i2c-mode only. Before using your EZO Circuits with the Tentacle Mini, switch them to `I2C`. [How to switch EZO Circuits to I2C](switch-to-i2c.md)
+!> **I2C only** The Tentacle Mini works with EZO circuits in `I2C` mode only. Before using your EZO Circuits with the Tentacle Mini, switch them to `I2C`. [How to switch EZO Circuits to I2C](protocols.md)
 
 ## Setup Procedure
 
 ?> Your Arduino should be **off** and the Tentacle Shield not yet plugged into the Arduino.
 
-1. Switch your EZO Circuits to `I2C`. [How to switch EZO Circuits to I2C](switch-to-i2c.md)
+1. Switch your EZO Circuits to `I2C`. [How to switch EZO Circuits to I2C](protocols.md)
 1. Plug your Atlas Scientific circuits into the Tentacle Shield
  * There’s no predefined order for the circuits, you can put them in arbitrary order.
  * Double-check the correct orientation of the EZO circuits

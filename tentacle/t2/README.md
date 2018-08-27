@@ -22,7 +22,7 @@ An Arduino shield to host and individually isolate up to 2 sensor circuits from 
 
 _Works with_
 
-![Arduino Logo](_media/designed-for-arduino-atlas.png)
+![Arduino Atlas Logo](_media/designed-for-arduino-atlas.png)
 
 ## Getting Started
 * [Quick Start Tutorial](quickstart.md)
