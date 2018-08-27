@@ -5,8 +5,8 @@
   * [Quick start](quickstart.md)
 
 * Hardware
-  * [Electrical Specs](electrical.md)
-  * [Mechanical Specs](mechanical.md)
+  * [Power](power.md)
+  * [Mechanics](mechanics.md)
   * [Compatibility](compatibility.md)
   * [Pinout](pinout.md)
 

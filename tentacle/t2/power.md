@@ -1,4 +1,4 @@
-# Electronic Specifications
+# Power
 
 ## Schematic
 * [Download Schematic (PDF)](https://github.com/whitebox-labs/tentacle-mini-oshw/raw/master/hardware/T2_mini_schematic.pdf)

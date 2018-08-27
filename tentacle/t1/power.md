@@ -1,4 +1,4 @@
-# Electronic Specifications
+# Power
 
 ## 5V only
 * The Tentacle for Arduino is powered solely from the Arduino 5V line.
