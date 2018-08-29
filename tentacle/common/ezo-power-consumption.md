@@ -1,5 +1,14 @@
-* EZO pH: ~18mA
-* EZO ORP: ~18mA
-* EZO EC: ~50mA
-* EZO DO: ~14mA
-* EZO RTD: ~16mA
+| EZO Device        	| Voltage 	| Max       	| Standby 	| Sleep   	|
+|:------------------	|---------:	|----------:	|---------:	|--------:	|
+| `EZO pH`           	| **5**_V_   	| 18.3_mA_ 	| 16.0_mA_ 	| 1.16_mA_ 	|
+| `EZO pH`           	| **3.3**_V_ 	| 14.5_mA_ 	| 13.8_mA_ 	| 0.99_mA_ 	|
+| `EZO ORP`          	| **5**_V_   	| 13.7_mA_ 	| 13.4_mA_ 	| 0.42_mA_ 	|
+| `EZO ORP`          	| **3.3**_V_ 	| 12.5_mA_ 	| 12.4_mA_ 	| 0.13_mA_ 	|
+| `EZO DO`           	| **5**_V_   	| 13.5_mA_ 	| 13.1_mA_ 	| 0.66_mA_ 	|
+| `EZO DO`           	| **3.3**_V_ 	| 12.1_mA_ 	| 12.0_mA_ 	| 0.3_mA_  	|
+| `EZO Conductivity` 	| **5**_V_   	| 50.0_mA_ 	| 18.2_mA_	| 0.7_mA_  	|
+| `EZO Conductivity` 	| **3.3**_V_ 	| 35.0_mA_ 	| 16.9_mA_	| 0.4_mA_  	|
+| `EZO RTD`         	| **5**_V_   	| 16.0_mA_ 	| 15.4_mA_ 	| 0.4_mA_  	|
+| `EZO RTD`         	| **3.3**_V_ 	| 14.3_mA_ 	| 13.8_mA_ 	| 0.09_mA_ 	|
+| `EZO PMP`         	| **5**_V_   	| 13.7_mA_ 	| 13.4_mA_ 	| 0.42_mA_	|
+| `EZO PMP`         	| **3.3**_V_ 	| 12.5_mA_ 	| 12.4_mA_ 	| 0.13_mA_	|
