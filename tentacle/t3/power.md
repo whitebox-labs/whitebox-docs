@@ -11,7 +11,7 @@ To estimate the total power consumption of your setup, **add the consumption of 
 
 On the Tentacle T3, the EZO devices are powered either by `3.3V` or `5V`. The voltage depends on which channel is used. See [Pinout](pinout.md) for all channels information.
 
-[filename](../common/ezo-power-consumption.md ':include')
+[filename](https://raw.githubusercontent.com/whitebox-labs/whitebox-docs/master/tentacle/common/ezo-power-consumption.md ':include')
 
 ### Estimate Tentacle power consumption
 Let's assume we have an `EZO pH` circuit, an `EZO Conductivity` circuit, an `EZO RTD` circuit and two `EZO PMP` dosing pumps. We can estimate the total power consumption like this:
