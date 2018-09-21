@@ -18,7 +18,7 @@ An Arduino shield to host and individually isolate up to 4 EZO Circuits from [At
 * `I2C` and `UART` compatible
 * stackable
 
-?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings. 
+?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
 
 _Works with_
 
@@ -41,7 +41,7 @@ _Works with_
 * [BNC Connector Mechanical Drawing (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/bnc_mechanical.pdf)
 * [T1.16 Schematic (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/tentacle_schematic.pdf)
 * [T1.16 3D-Model (STL)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STL)
-* [T1.16 3D-Model (STEP)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STEP)
+* [T1.16 3D-Model (STEP)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STEP.zip)
 
 ## Support
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.

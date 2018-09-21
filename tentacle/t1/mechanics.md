@@ -12,4 +12,4 @@
 
 ## 3D Models
 * [3D Model (STL)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STL)
-* [3D Model (STEP)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STEP)
+* [3D Model (STEP)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STEP.zip)

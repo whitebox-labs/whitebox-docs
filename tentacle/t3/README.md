@@ -41,7 +41,7 @@ A stackable add-on board for the Raspberry Pi to host up to 5 EZO-class devices 
 * <i class="far fa-file-pdf"></i> [BNC Connector Mechanical Drawing](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/bnc_mechanical.pdf)
 * <i class="far fa-file-pdf"></i> [Schematic](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/t3_schematic.pdf)
 * <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_t3.stl) (STL) [view online](https://github.com/whitebox-labs/tentacle-raspi-oshw/blob/master/hardware/mechanical/tentacle_t3.stl)
-* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_T3.STEP) (STEP)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_T3.STEP.zip) (STEP)
 
 ## Support
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.

@@ -13,4 +13,4 @@
 ## 3D Models
 
 * <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_t3.stl) (STL) [view online](https://github.com/whitebox-labs/tentacle-raspi-oshw/blob/master/hardware/mechanical/tentacle_t3.stl)
-* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_T3.STEP) (STEP)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/tentacle-raspi-oshw/raw/master/hardware/mechanical/tentacle_T3.STEP.zip) (STEP)
