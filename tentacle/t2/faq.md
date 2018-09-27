@@ -19,7 +19,7 @@ Try connecting to your sensor circuit after each of these steps:
 
 ## Can I use the Tentacle Mini with another microcontroller (not Arduino)?
 
-Yes. Make sure to check out the [Electronic Specs](electrical.md).
+Yes. Make sure to check out the [Electronic Specs](power.md).
 
 If you wanted to connect the Mini to a Raspberry Pi, Connect pins
 
