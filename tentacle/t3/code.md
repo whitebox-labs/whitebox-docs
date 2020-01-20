@@ -2,7 +2,7 @@
 
 Download the Atlas Scientifics I2C example for Raspberry Pi. It gives you an console to interact with all attached EZO devices:
 
-https://github.com/AtlasScientific/Raspberry-Pi-sample-code/raw/master/i2c.py
+https://github.com/AtlasScientific/Raspberry-Pi-sample-code
 
 or get the complete (incl USB etc) documentation: `git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git`
 
