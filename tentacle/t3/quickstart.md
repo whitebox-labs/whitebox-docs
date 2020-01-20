@@ -3,7 +3,7 @@
 ## Prerequisites
 For this quickstart tutorial you need:
 * One or more EZO Circuits by Atlas Scientific, protocol set to `I2C`
-* A Raspberry Pi (2 / 3 / 3 B+ / ZERO (W) also see [Compatibility](compatibility.md))
+* A Raspberry Pi (2, 3, 4, Zero - see [Compatibility](compatibility.md) for a full list)
 * A [Tentacle T3 for Raspberry Pi](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
 
 !> **I2C only** The Tentacle Mini works with EZO circuits in `I2C` mode only. Before using your EZO Circuits with the Tentacle Mini, switch them to `I2C`. [How to switch EZO Circuits to I2C](protocols.md)
