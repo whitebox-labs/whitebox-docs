@@ -1,4 +1,4 @@
-![logo](_media/b3-explosion.png)
+![logo](_media/pi3-assembly-explosion.png)
 
 # Whitebox B3 Project Enclosure
 
@@ -11,4 +11,5 @@
 
 
 <!-- background color -->
-![color](linear-gradient(to left bottom, #ffffff 0%, #f0f0f0 100%))
+
+![color](#f0f0f0)
