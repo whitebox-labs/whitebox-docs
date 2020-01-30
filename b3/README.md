@@ -3,59 +3,61 @@
 ![Tentacle T3](/_media/i2c-toggler-photo.png)
 
 _Atlas Scientific EZO-class devices are not included_
+_Whitebox Tentacle T3 for Raspberry Pi is not included_
 
-## What’s the I2C Toggler?
+## What’s Whitebox
 The I2C Toggler is a tool to switch the protocol type of an EZO Circuit from `UART` to `I2C` and back by the press of a button. No code, no wiring.
 
-
-# How to use the I2C Toggler?
-<iframe width="454" height="255" src="https://www.youtube.com/embed/W-arD9e24OI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-1. Select EZO™ circuit type with the switch - either:
- * RTD or
- * pH / EC / ORP / DO
-1. Insert your EZO™ circuit
-1. Plug I2C Toggler into USB port/cable
-1. Press and hold button for ~1 second
-1. Release after color change:
- * Blue =  `I2C`
- * Green = `UART`
-
-## Compatible EZO Circuits
+# Compatibility
 * `EZO pH` Circuit
-* `EZO EC` Circuit
-* `EZO ORP` Circuit
-* `EZO DO` Circuit
-* `EZO RTD` Circuit
 
-## Incompatible circuits
-* EZO Flow Meter Totalizer
-* Legacy circuits pre-EZO V3.0 - V6.0
+# Prepare the Enclosure
 
-## Powering the I2C toggler
+## Mounting the light pipes
 
-### Just plug into USB!
-Works with USB 1.0 / 2.0 / 3.0 Type A sockets.
+## Opening and closing
 
-![Whitebox Logo](_media/usb.png)
+# Assembly
 
-Directly plug the I2C Toggler PCB into an USB port of a laptop in the field, USB charger, USB cable or similar. Orientation does not matter, the I2C Toggler can be used in all rotations.
+## 1. Mount the 2 standoffs to the Raspberry Pi
+(image)
 
-### 5V pin header
-![Whitebox Logo](_media/pin-headers.png)
+## 2. Mount Raspberry Pi into the enclosure:
+1. Insert the Pi - place the Pi's PCB edge under under the two tabs
+(image)
+1. Press the Pi down so it snaps under the spring latch near the 40 pin connector
+(image)
 
-Alternatively to the USB, you can solder on pin headers (2.54mm pitch) and power it by 3.3V - 5V. Pin headers are not included. Don't use USB and the pin headers at the same time.
+## 3. Stack the Whitebox Tentacle T3 onto the Pi
+(image)
+You can use the holes as a visual guide.
 
-<small>_Made by_</small>
+## 3. Secure the T3 with screws
+(image)
 
-![Whitebox Logo](_media/whitebox_logo.png)
+## 5. Plug in the EZO circuits and probes
 
-<small>_Works with_</small>
 
-![Raspberry Pi Atlas Logo](_media/atlas_scientific.png)
+# Disassembly
+
+?> Don't remove the T3 from the Raspberry Pi while still in the enclosure.
+
+## 1. Open the spring latch to remove and remove the Pi including the T3
+(image)
+
+# Mounting options
+
+## Desktop
+(image)
+
+## Removable Wall Mount
+(image)
+
+## Permanent Mount
+(image)
 
 # Buy
-* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/i2c-toggler) – we ship worldwide
-* or from a [distributor](https://www.whiteboxes.ch/distributors)
+* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3-project-enclosure/) – we ship worldwide
 
-*Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
+
+*Made Canada* ![Canada](_media/canada-flag-icon-16.png)  *, modified in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
