@@ -10,5 +10,6 @@
 [Learn](#introduction)
 
 
-![color](#f0f0f0) -->
+<!-- background color -->
 
+![color](#f0f0f0)
