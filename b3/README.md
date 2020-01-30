@@ -1,60 +1,74 @@
 # Introduction {docsify-ignore-all}
 
-![Tentacle T3](/_media/i2c-toggler-photo.png)
+![B3](/_media/b3-overview.png)
 
 _Atlas Scientific EZO-class devices are not included_
 _Whitebox Tentacle T3 for Raspberry Pi is not included_
 
-## What’s Whitebox
-The I2C Toggler is a tool to switch the protocol type of an EZO Circuit from `UART` to `I2C` and back by the press of a button. No code, no wiring.
+
+## What's in the box
+![Box contents](/_media/b3-contents.png)
 
 # Compatibility
-* `EZO pH` Circuit
+## Model B3.PI3 {docsify-ignore}
+* Raspberry Pi 2 Model B
+* Raspberry Pi 3 Model B
+* Raspberry Pi 3 Model B+
+
+## Model B3.PI4 {docsify-ignore}
+* Raspberry Pi 4 Model B
+
 
 # Prepare the Enclosure
 
-## Mounting the light pipes
+## Mounting the light pipes {docsify-ignore}
+![Mount light pipes](/_media/b3-light-pipes.png)
 
-## Opening and closing
+## Opening the enclosure {docsify-ignore}
+![Open enclosure](/_media/b3-open-enclosure.png)
+
+## Closing the enclosure {docsify-ignore}
+![Closing enclosure](/_media/b3-close-enclosure.png)
 
 # Assembly
 
-## 1. Mount the 2 standoffs to the Raspberry Pi
-(image)
+## 1. Mount the 2 standoffs to the Raspberry Pi {docsify-ignore}
+![Mount standoffs](/_media/b3-pi-standoffs.png)
 
-## 2. Mount Raspberry Pi into the enclosure:
-1. Insert the Pi - place the Pi's PCB edge under under the two tabs
-(image)
-1. Press the Pi down so it snaps under the spring latch near the 40 pin connector
-(image)
+## 2. Mount Raspberry Pi into the enclosure {docsify-ignore}
+Insert the Pi - place the Pi's PCB edge under under the two tabs
+![Insert Pi](/_media/b3-pi-insert.png)
 
-## 3. Stack the Whitebox Tentacle T3 onto the Pi
-(image)
+Press the Pi down so it snaps under the spring latch near the 40 pin connector
+![Snap Pi](/_media/b3-pi-snap.png)
+
+## 3. Stack the Whitebox Tentacle T3 onto the Pi {docsify-ignore}
+![Stack T3](/_media/b3-t3-stack.png)
 You can use the holes as a visual guide.
 
-## 3. Secure the T3 with screws
-(image)
+## 4. Secure the T3 with screws {docsify-ignore}
+![Screw T3](/_media/b3-t3-screw.png)
 
-## 5. Plug in the EZO circuits and probes
-
+## 5. Plug in the EZO circuits and probes {docsify-ignore}
+![Ready](/_media/b3-ready.png)
 
 # Disassembly
 
-?> Don't remove the T3 from the Raspberry Pi while still in the enclosure.
+?> Remove the assembled Raspberry Pi + Tentacle T3 stack from the enclosure. Don't remove the T3 while in the enclosure as this could easily bend the Raspberry Pi pins
 
-## 1. Open the spring latch to remove and remove the Pi including the T3
-(image)
+## 1. Open the spring latch to remove and remove the Pi including the T3 {docsify-ignore}
+![Disassemble](/_media/b3-disassemble.png)
 
 # Mounting options
 
-## Desktop
-(image)
+## Desktop {docsify-ignore}
+![Desktop mount](/_media/b3-desktop-mount.png)
 
-## Removable Wall Mount
-(image)
+## Removable Wall Mount {docsify-ignore}
+![Wall mount](/_media/b3-wall-mount.png)
 
-## Permanent Mount
-(image)
+## Permanent Mount {docsify-ignore}
+![Permanent mount](/_media/b3-permanent-mount.png)
 
 # Buy
 * From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3-project-enclosure/) – we ship worldwide
