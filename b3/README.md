@@ -20,6 +20,7 @@
 
 ## Mounting the light pipes {docsify-ignore}
 ![Mount light pipes](/_media/b3-light-pipes.png)
+
 Plug the 3 plastic light pipes into the holes in the enclosure lid. 
 
 ## Opening the enclosure {docsify-ignore}
