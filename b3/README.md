@@ -2,12 +2,9 @@
 
 ![B3](/_media/b3-overview.png)
 
-_Atlas Scientific EZO-class devices are not included_
-_Whitebox Tentacle T3 for Raspberry Pi is not included_
+* _Atlas Scientific EZO-class devices are not included_
+* _Whitebox Tentacle T3 for Raspberry Pi is not included_
 
-
-## What's in the box
-![Box contents](/_media/b3-contents.png)
 
 # Compatibility
 ## Model B3.PI3 {docsify-ignore}
@@ -23,6 +20,7 @@ _Whitebox Tentacle T3 for Raspberry Pi is not included_
 
 ## Mounting the light pipes {docsify-ignore}
 ![Mount light pipes](/_media/b3-light-pipes.png)
+Plug the 3 plastic light pipes into the holes in the enclosure lid. 
 
 ## Opening the enclosure {docsify-ignore}
 ![Open enclosure](/_media/b3-open-enclosure.png)
