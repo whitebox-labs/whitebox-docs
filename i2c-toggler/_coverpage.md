@@ -11,4 +11,5 @@
 
 
 <!-- background color -->
-![color](linear-gradient(to left bottom, #ffffff 0%, #f0f0f0 100%))
+
+![color](#f0f0f0)
