@@ -26,6 +26,8 @@ Plug the 3 plastic light pipes into the holes in the enclosure lid.
 ## Opening the enclosure {docsify-ignore}
 ![Open enclosure](/_media/b3-open.png)
 
+Press firmly on the lid-release to open the lid.
+
 ## Closing the enclosure {docsify-ignore}
 ![Closing enclosure](/_media/b3-close.png)
 
