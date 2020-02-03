@@ -31,6 +31,8 @@ Press firmly on the lid-release to open the lid.
 ## Closing the enclosure {docsify-ignore}
 ![Closing enclosure](/_media/b3-close.png)
 
+When installing the lid you can put either end in first.
+
 # Assembly
 
 ## 1. Mount the 2 standoffs to the Raspberry Pi {docsify-ignore}
