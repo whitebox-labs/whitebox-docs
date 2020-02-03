@@ -1,6 +1,6 @@
 # Introduction {docsify-ignore-all}
 
-The Whitebox B3 Project Enclosure is a box for your Raspberry Pi, the [Whitebox Tentacle T3](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
+The Whitebox B3 Project Enclosure is a box for the Raspberry Pi, the [Whitebox Tentacle T3](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
 and [Atlas Scientific EZO devices](https://www.whiteboxes.ch/product-category/circuits/) with a snug fit. It has several mounting options, is rattle-free and easy to open and close.
 
 ![B3 explosion](_media/b3-explosion.png)
@@ -47,14 +47,17 @@ When installing the lid you can put either end in first.
 ## 1. Mount the 2 standoffs to the Raspberry Pi {docsify-ignore}
 ![Mount standoffs](/_media/b3-pi-standoffs.png)
 
-
+Install the 2 standoffs as shown in the image above.
 
 ## 2. Mount Raspberry Pi into the enclosure {docsify-ignore}
-Insert the Pi - place the Pi's PCB edge under under the two tabs
 ![Insert Pi](/_media/b3-pi-insert.png)
 
-Press the Pi down so it snaps under the spring latch near the 40 pin connector
+Insert the Pi - place the Pi's PCB edge under under the two tabs marked green in the image above.
+
 ![Snap Pi](/_media/b3-pi-snap.png)
+
+Press the Pi down so it snaps under the spring latch near the 40 pin connector
+
 
 ## 3. Stack the Whitebox Tentacle T3 onto the Pi {docsify-ignore}
 ![Stack T3](/_media/b3-t3-stack.png)
