@@ -1,4 +1,4 @@
-![logo](_media/pi3-assembly-explosion.png)
+![B3](/_media/b3-overview.png)
 
 # Whitebox B3 Project Enclosure
 

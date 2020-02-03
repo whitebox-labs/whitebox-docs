@@ -1,6 +1,6 @@
 # Introduction {docsify-ignore-all}
 
-![B3](/_media/b3-overview.png)
+![B3 explosion](_media/pi3-assembly-explosion.png)
 
 The Whitebox B3 Project Enclosure is a box for your Raspberry Pi, the [Whitebox Tentacle T3](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
 and [Atlas Scientific EZO devices](https://www.whiteboxes.ch/product-category/circuits/) with a snug fit. It has several mounting options, is rattle-free and easy to open and close.
