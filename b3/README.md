@@ -5,6 +5,12 @@ and [Atlas Scientific EZO devices](https://www.whiteboxes.ch/product-category/ci
 
 ![B3 explosion](_media/b3-explosion.png)
 
+In the box:
+* Plastic box with lid
+* 3x light pipes
+* 2x standoffs M2.5
+* 4x screws M2.5
+* 4x self-adhesive rubber feet
 
 _Atlas Scientific EZO-class devices and Whitebox Tentacle T3 are not included_
 
@@ -40,6 +46,8 @@ When installing the lid you can put either end in first.
 
 ## 1. Mount the 2 standoffs to the Raspberry Pi {docsify-ignore}
 ![Mount standoffs](/_media/b3-pi-standoffs.png)
+
+
 
 ## 2. Mount Raspberry Pi into the enclosure {docsify-ignore}
 Insert the Pi - place the Pi's PCB edge under under the two tabs
