@@ -1,5 +1,7 @@
 # Introduction {docsify-ignore-all}
 
+This guide is for both variants - B3.PI3 and B3.PI4. Images are shown for B3.PI but are valid for the B3.PI4 also.
+
 The Whitebox B3 Project Enclosure is a box for the Raspberry Pi, the [Whitebox Tentacle T3](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
 and [Atlas Scientific EZO devices](https://www.whiteboxes.ch/product-category/circuits/) with a snug fit. It has several mounting options, is rattle-free and easy to open and close.
 
@@ -12,16 +14,16 @@ In the box:
 * 4x screws M2.5
 * 4x self-adhesive rubber feet
 
-_Atlas Scientific EZO-class devices and Whitebox Tentacle T3 are not included_
+_Raspberry Pi, Atlas Scientific EZO-class devices and Whitebox Tentacle T3 are not included_
 
 
 # Compatibility
-## Model B3.PI3 {docsify-ignore}
+*Model B3.PI3 {docsify-ignore}*
 * Raspberry Pi 2 Model B
 * Raspberry Pi 3 Model B
 * Raspberry Pi 3 Model B+
 
-## Model B3.PI4 {docsify-ignore}
+*Model B3.PI4 {docsify-ignore}*
 * Raspberry Pi 4 Model B
 
 
@@ -66,8 +68,8 @@ You can use the holes as a visual guide.
 ## 4. Secure the T3 with screws {docsify-ignore}
 ![Screw T3](/_media/b3-t3-screw.png)
 
-## 5. Plug in the EZO circuits and probes {docsify-ignore}
-![Ready](/_media/b3-ready.png)
+## 5. Ready {docsify-ignore}
+Your enclosure is ready to put in the EZO Circuits and to attach the probes.
 
 # Disassembly
 
