@@ -18,12 +18,12 @@ _Raspberry Pi, Atlas Scientific EZO-class devices and Whitebox Tentacle T3 are n
 
 
 # Compatibility
-*Model B3.PI3 {docsify-ignore}*
+**Model B3.PI3**
 * Raspberry Pi 2 Model B
 * Raspberry Pi 3 Model B
 * Raspberry Pi 3 Model B+
 
-*Model B3.PI4 {docsify-ignore}*
+**Model B3.PI4**
 * Raspberry Pi 4 Model B
 
 
