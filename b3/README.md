@@ -95,4 +95,4 @@ _Before re-assembly, unmount the T3 from the Pi_
 * From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3-project-enclosure/) – we ship worldwide
 
 
-*Made Canada* ![Canada](_media/canada-flag-icon-16.png)  *, modified in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
+*Made Canada* ![Canada](_media/canada-flag-icon-16.png)  *, machined in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
