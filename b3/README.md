@@ -73,10 +73,12 @@ Your enclosure is ready to put in the EZO Circuits and to attach the probes.
 
 # Disassembly
 
-?> Remove the assembled Raspberry Pi + Tentacle T3 stack from the enclosure. Don't remove the T3 while in the enclosure as this could easily bend the Raspberry Pi pins
+?> Do NOT remove the T3 while the Pi is still in the enclosure. Release the complete stack from the enclosure.
 
-## 1. Open the spring latch to remove and remove the Pi including the T3 {docsify-ignore}
 ![Disassemble](/_media/b3-disassemble.png)
+Pull open the spring latch to remove release the Pi and T3.
+
+_Before re-assembly, unmount the T3 from the Pi_
 
 # Mounting options
 
