@@ -7,6 +7,8 @@ and [Atlas Scientific EZO devices](https://www.whiteboxes.ch/product-category/ci
 
 ![B3 explosion](_media/b3-explosion.png)
 
+External dimensions: 97 x 66 x 41mm
+
 In the box:
 * Plastic box with lid
 * 3x light pipes
@@ -88,10 +90,12 @@ Stick the 4 self-adhesive rubber feet to the 4 screw holes.
 ## Removable Wall Mount {docsify-ignore}
 ![Wall mount](/_media/b3-wall-mount.png)
 
-Two screws slide into wall mounts for easy removal, horizontal orientation with BNC side down, 40mm spacing
+2 screws slide into wall mounts for easy removal, horizontal orientation with BNC side down, 40mm spacing
 
 ## Permanent Mount {docsify-ignore}
 ![Permanent mount](/_media/b3-permanent-mount.png)
+
+4 screws through the feet from inside for secure mounting in any orientation, 68.3 x 38.8mm spacing
 
 # Buy
 * From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3-project-enclosure/) – we ship worldwide
