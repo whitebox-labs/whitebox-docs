@@ -83,10 +83,12 @@ _Before re-assembly, unmount the T3 from the Pi_
 # Mounting options
 
 ## Desktop {docsify-ignore}
-![Desktop mount](/_media/b3-desktop-mount.png)
+Stick the 4 self-adhesive rubber feet to the 4 screw holes.
 
 ## Removable Wall Mount {docsify-ignore}
 ![Wall mount](/_media/b3-wall-mount.png)
+
+Two screws slide into wall mounts for easy removal, horizontal orientation with BNC side down, 40mm spacing
 
 ## Permanent Mount {docsify-ignore}
 ![Permanent mount](/_media/b3-permanent-mount.png)
