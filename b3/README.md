@@ -65,6 +65,7 @@ Press the Pi down so it snaps under the spring latch near the 40 pin connector
 
 ## 3. Stack the Whitebox Tentacle T3 onto the Pi {docsify-ignore}
 ![Stack T3](/_media/b3-t3-stack.png)
+
 You can use the holes as a visual guide.
 
 ## 4. Secure the T3 with screws {docsify-ignore}
@@ -78,6 +79,7 @@ Your enclosure is ready to put in the EZO Circuits and to attach the probes.
 ?> Do NOT remove the T3 while the Pi is still in the enclosure. Release the complete stack from the enclosure.
 
 ![Disassemble](/_media/b3-disassemble.png)
+
 Pull open the spring latch to remove release the Pi and T3.
 
 _Before re-assembly, unmount the T3 from the Pi_
