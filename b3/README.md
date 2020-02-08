@@ -100,7 +100,7 @@ Stick the 4 self-adhesive rubber feet to the 4 screw holes.
 4 screws through the feet from inside for secure mounting in any orientation, 68.3 x 38.8mm spacing
 
 # Buy
-* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3-project-enclosure/) – we ship worldwide
+* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/b3/) – we ship worldwide
 
 
 *Made Canada* ![Canada](_media/canada-flag-icon-16.png)  *, machined in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
