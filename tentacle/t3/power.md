@@ -18,14 +18,14 @@ Let's assume we have an `EZO pH` circuit, an `EZO Conductivity` circuit, an `EZO
 
 | Device      	| Ch# 	| Voltage 	| Max Power	| Standby 	| Sleep   	|
 |:-------------	|-----------	|---------	|---------:	|---------:	|--------:	|
-| `Tentacle T3`	|           	| 5V      	|   70_mA_ 	| 70_mA_  	| 70_mA_  	|
-| `EZO pH`    	| 1         	| 5V      	| 18.3_mA_ 	| 16.0_mA_ 	| 1.16_mA_ 	|
-| `EZO Conductivity`	| 2   	| 5V      	| 50.0_mA_ 	| 18.2_mA_	| 0.7_mA_ 	|
-| `EZO RTD`   	| 3         	| 3.3V    	| 14.3_mA_ 	| 15.4_mA_ 	| 0.4_mA_ 	|
-| `EZO PMP`   	| 4         	| 3.3V    	| 12.5_mA_ 	| 12.4_mA_ 	| 0.13_mA_ 	|
-| `EZO PMP`   	| 5         	| 3.3V    	| 12.5_mA_ 	| 12.4_mA_ 	| 0.13_mA_ 	|
+| `Tentacle T3`	|           	| 5V      	|   70mA 	| 70mA  	| 70mA  	|
+| `EZO pH`    	| 1         	| 5V      	| 18.3mA 	| 16.0mA 	| 1.16mA 	|
+| `EZO Conductivity`	| 2   	| 5V      	| 50.0mA 	| 18.2mA	| 0.7mA 	|
+| `EZO RTD`   	| 3         	| 3.3V    	| 14.3mA 	| 15.4mA 	| 0.4mA 	|
+| `EZO PMP`   	| 4         	| 3.3V    	| 12.5mA 	| 12.4mA 	| 0.13mA 	|
+| `EZO PMP`   	| 5         	| 3.3V    	| 12.5mA 	| 12.4mA 	| 0.13mA 	|
 |             	|           	|         	|         	|         	|         	|
-| **Total**   	|           	|         	| **177.6_mA_** 	| **144.4_mA_**  	| **72.52_mA_**  	|
+| **Total**   	|           	|         	| **177.6mA** 	| **144.4mA**  	| **72.52mA**  	|
 
 !> This is an estimation. Numbers in reality will vary.
 
