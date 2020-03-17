@@ -54,6 +54,12 @@ Alternatively to the USB, you can solder on pin headers (2.54mm pitch) and power
 
 ![Raspberry Pi Atlas Logo](_media/atlas_scientific.png)
 
+# License
+Hardware design files and documentation are licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+[Hardware source files on Github](https://github.com/whitebox-labs/whitebox-i2c-toggler-oshw)
+
 # Buy
 * From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/i2c-toggler) – we ship worldwide
 * or from a [distributor](https://www.whiteboxes.ch/distributors)
