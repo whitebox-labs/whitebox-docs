@@ -19,7 +19,7 @@ _(coming soon)_
 
 ## Set Protocol By Code
 
-!> On the Tentacle Mini, only the switch from `I2C` to `UART` can be done in code. After the switch to `UART` you can't use the EZO Circuit with the Tentacle Mini until switched back to `I2C` using another method.
+!> On the Tentacle T3, only the switch from `I2C` to `UART` can be done in code. After the switch to `UART` you can't use the EZO Circuit with the Tentacle T3 until switched back to `I2C` using another method.
 
 [filename](https://raw.githubusercontent.com/whitebox-labs/whitebox-docs/master/tentacle/common/ezo-protocols-code.md ':include')
 
