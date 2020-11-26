@@ -20,6 +20,8 @@ _(coming soon)_
 
 [filename](../common/ezo-protocols-code.md ':include')
 
+?> After changing the protocol, set `Protocol Jumpers` accordingly to adjust the Tentacle to the new protocol.
+
 ### Using the Tentacle for Arduino and the Setup Sketch
 1. Load the [Tentacle Setup Sketch](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/tentacle-setup/tentacle_setup/tentacle_setup.ino ':target=_blank') to your Arduino
 1. open the serial monitor `@9600`

@@ -22,7 +22,7 @@ For the full documentation of the I2C Toggler, see https://www.whiteboxes.ch/doc
 
 ## Set Protocol By Code
 
-!> On the Whitebox T2 Mini MkII, only the switch from `I2C` to `UART` can be done in code. After the switch to `UART` you can't use the EZO Circuit with the Whitebox T2 until switched back to `I2C` using another method.
+!> On the Whitebox T2 Mini MkII, you can only switch from `I2C` to `UART` in code, but not back to I2C. After the switch to `UART` you can't use the EZO Circuit with the Whitebox T2 until switched back to `I2C` using another method.
 
 [filename](../common/ezo-protocols-code.md ':include')
 
