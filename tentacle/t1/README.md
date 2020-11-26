@@ -10,7 +10,7 @@ _Atlas Scientific EZO-class devices are not included_
 
 ![Whitebox Logo](_media/whitebox_logo.png)
 
-## What's the Tentacle Shield?
+## What's the Tentacle Shield? <!-- {docsify-ignore} -->
 An Arduino shield to host and individually isolate up to 4 EZO Circuits from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.), Oxidation-Reduction Potential (ORP) and RTD (Temperature).
 
 * 4 fully isolated channels for **Atlas Scientific EZO Circuits**
@@ -24,10 +24,10 @@ _Works with_
 
 ![Arduino Atlas Logo](_media/designed-for-arduino-atlas.png)
 
-## Getting Started
+## Getting Started <!-- {docsify-ignore} -->
 * [Quick Start Tutorial](quickstart.md)
 
-## Code Examples
+## Code Examples <!-- {docsify-ignore} -->
 * [Continuous Readings](continuous-example.md)
 * [Continuous, Asynchronous Readings](asynchronous-example.md)
 * [Interactive, Bidirectional Communications](interactive-example.md)
@@ -35,7 +35,7 @@ _Works with_
 * [Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples)
 `git clone https://github.com/whitebox-labs/tentacle-examples.git`
 
-## Downloads
+## Downloads <!-- {docsify-ignore} -->
 * [Tentacle Setup Sketch](https://raw.githubusercontent.com/whitebox-labs/tentacle-examples/master/arduino/tentacle-setup/tentacle_setup/tentacle_setup.ino ':target=_blank')
 * [T1.16 Mechanical Drawing (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/tentacle_t1_mechanical.pdf)
 * [BNC Connector Mechanical Drawing (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/bnc_mechanical.pdf)
@@ -43,20 +43,20 @@ _Works with_
 * [T1.16 3D-Model (STL)](https://github.com/whitebox-labs/tentacle/blob/master/hardware/mechanical/tentacle_t1.STL)
 * [T1.16 3D-Model (STEP)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/tentacle_t1.STEP.zip)
 
-## Support
+## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
 
 If you find bug in the documentation, examples or the schematic, feel free to create an issue or even a pull request here on GitHub.
 
 
-## Open Source
+## Open Source <!-- {docsify-ignore} -->
 The Tentacle Shield is [certified](http://certificate.oshwa.org/certification-directory/) Open Source Hardware with UID CH000003. Schematics and layout are licensed under [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Silkscreen graphics and the trade mark “Tentacle” are intellectual property of Whitebox Labs
 
 * [Hardware source files on GitHub](https://github.com/whitebox-labs/tentacle) `git clone https://github.com/whitebox-labs/tentacle.git`
 
 Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 
-## Buy
+## Buy <!-- {docsify-ignore} -->
 * From [our store](https://www.whiteboxes.ch/shop/tentacle/) – we ship worldwide
 * or from one of our [Distributors](https://www.whiteboxes.ch/distributors)
 
