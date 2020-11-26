@@ -2,30 +2,24 @@
 
 ## Arduino Compatibility
 
-![Arduino Compatibility](_media/t2-compatibility.png)
-
-### Compatible Boards
-* Arduino Uno (R3)
-* Arduino Mega 2560 (R3)
-* Arduino Leanardo
-* Arduino Yun
-* Arduino 101
-* Arduino Zero
-* Arduino Due
-* and most (all?) Arduino-compatible boards with R3 Pinout
-
+Works with all Arduino-compatibles using the R3 shield-layout.
 
 ## EZO Circuit Compatibility
 
 
-### Compatible Circuits
-* EZO pH Circuit
-* EZO EC Circuit
-* EZO ORP Circuit
-* EZO DO Circuit
-* EZO RTD Circuit
+### Compatible EZO devices
+* `EZO pH`
+* `EZO ORP`
+* `EZO EC`
+* `EZO DO`
+* `EZO RTD`
+* `EZO CO2` Embedded NDIR CO2 Sensor
+* `EZO O2` Embedded Oxygen Sensor
+* `EZO HUM` Embedded Humidity sensor
+* `EZO PRS` Embedded Pressure Sensor
+* `EZO PMP` Embedded Dosing Pump
+* `EZO RGB` Embedded Color Sensor
 
 
-### Incompatible circuits
-* EZO Flow Meter Totalizer
-* Legacy circuits V3.0 - V6.0
+### Incompatible EZO device
+* `EZO FLO`  FLow Meter Totalizer
