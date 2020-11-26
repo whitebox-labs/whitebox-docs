@@ -16,9 +16,7 @@ All EZO devices come with two protocols: `UART` and `I2C`. Factory default is `U
 
 ## Set Protocol With Whitebox I2C Toggler
 
-For the full documentation of the I2C Toggler, see https://www.whiteboxes.ch/docs/i2c-toggler/
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W-arD9e24OI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[filename](https://raw.githubusercontent.com/whitebox-labs/whitebox-docs/master/tentacle/common/ezo-protocols-toggler.md ':include')
 
 ## Set Protocol By Code
 

@@ -9,9 +9,8 @@ The I2C Toggler is a tool to switch the protocol type of an EZO Circuit from `UA
 
 
 # How to use the I2C Toggler?
-<iframe width="454" height="255" src="https://www.youtube.com/embed/W-arD9e24OI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-1. Select EZO™ circuit type with the switch - either:
+1. Select EZO circuit type with the switch - either:
  * RTD or
  * pH / EC / ORP / DO
 1. Insert your EZO™ circuit
@@ -20,6 +19,9 @@ The I2C Toggler is a tool to switch the protocol type of an EZO Circuit from `UA
 1. Release after color change:
  * Blue =  `I2C`
  * Green = `UART`
+
+ [![I2C Toggler Video](https://img.youtube.com/vi/W-arD9e24OI/0.jpg)](https://www.youtube.com/watch?v=W-arD9e24OI){:target="_blank"}
+ 
 
 ## Compatible EZO Circuits
 * `EZO pH` Circuit

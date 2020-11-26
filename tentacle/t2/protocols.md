@@ -15,7 +15,8 @@ Most EZO Circuits come with two protocols: `UART` and `I2C`. Factory default is 
 
 
 ## Set Protocol With Whitebox I2C Toggler
-_(coming soon)_
+
+[filename](https://raw.githubusercontent.com/whitebox-labs/whitebox-docs/master/tentacle/common/ezo-protocols-toggler.md ':include')
 
 ## Set Protocol By Code
 
