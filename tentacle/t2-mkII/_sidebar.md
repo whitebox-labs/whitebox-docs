@@ -4,7 +4,7 @@
 
 * Hardware
   * [<i class="fas fa-bolt"></i> Power](power.md)
-  * [v](mechanics.md)
+  * [<i class="fas fa-ruler-combined"></i> Mechanics](mechanics.md)
   * [<i class="fas fa-puzzle-piece"></i> Compatibility](compatibility.md)
   * [<i class="fas fa-microchip"></i> Pinout](pinout.md)
 

@@ -28,15 +28,6 @@ _Works with_
 * [Quick Start Tutorial](quickstart.md)
 * [How to switch EZO Circuits to I2C](protocols.md)
 
-## Code Examples
-* [Continuous Readings](continuous-example.md)
-* [Continuous, Asynchronous Readings](asynchronous-example.md)
-* [Interactive, Bidirectional Communications](interactive-example.md)
-* [Download all examples (zip)](https://github.com/whitebox-labs/tentacle-examples/archive/master.zip)
-* [Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples)
-`git clone https://github.com/whitebox-labs/tentacle-examples.git`
-
-
 ## Downloads
 * [Whitebox Interactive EZO Console](https://github.com/whitebox-labs/whitebox-ezo-console/archive/main.zip ':target=_blank')
 * [T2.16 Schematic (PDF)](https://github.com/whitebox-labs/tentacle-mini-oshw/raw/master/hardware/T2_mini_schematic.pdf)
