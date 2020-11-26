@@ -1,15 +1,15 @@
-![logo](_media/tentacle_t2_drawing.png)
+![logo](_media/whitebox-t2-mini-mkII.png)
 
-# Tentacle Mini <small>for Arduino</small>
+# Whitebox T2 Mini MkII <small>for Arduino</small>
 
 > Documentation
 
-* Model T2.16
+* Model T2.21
 
-[Buy](https://www.whiteboxes.ch/shop/tentacle-mini/)
+[Buy](https://www.whiteboxes.ch/shop/t2-mini-mk2/)
 [Learn](#introduction)
 
 
 <!-- background color -->
 
-![color](#f0f0f0)
+![color](#ffffff)
