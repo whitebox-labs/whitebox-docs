@@ -7,7 +7,7 @@
 * Model T2.21
 
 [Buy](https://www.whiteboxes.ch/shop/t2-mini-mk2/)
-[Learn](#legacy)
+[Learn](#introduction)
 
 
 <!-- background color -->

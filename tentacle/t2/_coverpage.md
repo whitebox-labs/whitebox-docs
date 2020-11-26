@@ -7,7 +7,7 @@
 * Model T2.16
 
 [Buy](https://www.whiteboxes.ch/shop/tentacle-mini/)
-[Learn](#introduction)
+[Learn](#legacy)
 
 
 <!-- background color -->
