@@ -1,6 +1,14 @@
+# LEGACY <!-- {docsify-ignore} -->
+
+The Tentacle Mini has been discontinued in 2020 and was replaced by the [Whitebox T2 Mini MkII](https://www.whiteboxes.ch/docs/tentacle/t2-mkII/)
+
+This documentation will remain online. We'll continue support for the Tetnacle Mini.  
+
 # Introduction
 
-This documentation is for **Tentacle Mini for Arduino**, model `T2.16`
+This documentation is for **Tentacle Mini for Arduino**, model `T2.16` (disconinued)
+
+
 
 ![Tentacle Mini](/_media/tentacle-t2.jpg)
 

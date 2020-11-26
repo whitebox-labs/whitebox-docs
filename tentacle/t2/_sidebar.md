@@ -1,5 +1,7 @@
 ![Tentacle Mini](_media/tentacle_t2_drawing.png)
 
+The Tentacle Mini is discontinued and replaced by the [Whitebox T2 Mini MkII](https://www.whiteboxes.ch/docs/tentacle/t2-mkII/)
+
 * Getting started
   * [Introduction](/)
   * [Quick start](quickstart.md)
