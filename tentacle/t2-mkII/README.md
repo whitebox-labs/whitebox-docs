@@ -1,8 +1,7 @@
 # Introduction
 
-This documentation is for **Whitebox T2 Mini MkII for Arduino**, model `T2.20`
-
-![Tentacle Mini](/_media/whitebox-t2-mkII.jpg)
+This documentation is for **Whitebox T2 Mini MkII for Arduino**, model `T2.21`
+If you are looking for the documentation for the previous version of this shield, you can find it here [T2.16 Tentacle Mini](https://www.whiteboxes.ch/docs/t2/)
 
 _Atlas Scientific EZO-class devices are not included_
 
@@ -11,7 +10,7 @@ _Atlas Scientific EZO-class devices are not included_
 ![Whitebox Logo](_media/whitebox_logo.png)
 
 ## What's the Whitebox T2 MkII?
-An Arduino shield to host and individually isolate up to 5 EZO devices from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.) and Oxidation-Reduction Potential (ORP), RTD (Temperature) and many more.
+An Arduino shield to host and individually isolate up to 5 EZO devices from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.) and Oxidation-Reduction Potential (ORP), RTD (Temperature) and many more. See [Compatibility](compatibility.md) all all compatible devices.
 
 * 2 fully isolated channels for _Atlas Scientific EZO Circuits_
 * 1 non-isolated channel for _Atlas Scientific EZO Circuits_
