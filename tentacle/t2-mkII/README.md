@@ -1,7 +1,6 @@
 # Introduction
 
 This documentation is for **Whitebox T2 Mini MkII for Arduino**, model `T2.21`
-If you are looking for the documentation for the previous version of this shield, you can find it here [T2.16 Tentacle Mini](https://www.whiteboxes.ch/docs/t2/)
 
 _Atlas Scientific EZO-class devices are not included_
 
