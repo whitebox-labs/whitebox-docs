@@ -46,7 +46,7 @@ ACTIVE channel : 99
 Type: EZO ORP, Version: 1.0, COM: I2C
 ```
 
-What you type now, is directly sent to the circuit on serial channel 0. For example, type `r` to get the newest reading.
+What you type now, is directly sent to the active EZO device at address 99. For example, type `r` to get the newest reading.
 
 ![Tentacle Interactive Command](_media/tentacle_setup.gif)
 

@@ -47,11 +47,10 @@ _The Tentacle T3 adds pullup resitors to the Raspberry Pi I2C lines (see [I2C Pu
 
 ## Channel 4 + 5
 * Isolation: **No**
-* Footprint: pin-header connector (e.g. to connect a Molex connector)
+* Footprint: EZO Data Connector (e.g. to connect a Molex connector)
 * Protocol: `I2C` only
-* Probe Connector: BNC
 * Best suited for:
- * 5pin EZO-class devices like the EZO-PMP, EZO-CO2 or EZO-PRS
+ * 5pin EZO-Data devices like the EZO-PMP, EZO-CO2 or EZO-PRS
  * 3rd-party I2C devices like the I2C Soil Moisture Sensor
 * VCC: `3.3V`
 * I2C: `3.3V`

@@ -7,7 +7,7 @@ Please download and read the datasheets of your Circuits:
 
 [filename](../common/ezo-datasheets.md ':include')
 
-## My Circutit cant' be detected
+## My EZO device can't be detected
 Try connecting to your sensor circuit after each of these steps:
 
 1. Have you tried the Tentacle Setup sketch from the [Quickstart tutorial](quickstart.md)? There’s a good chance it can auto-detect your circuit.
