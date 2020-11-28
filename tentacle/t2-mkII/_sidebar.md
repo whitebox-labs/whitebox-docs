@@ -7,6 +7,7 @@
   * [<i class="fas fa-ruler-combined"></i> Mechanics](mechanics.md)
   * [<i class="fas fa-puzzle-piece"></i> Compatibility](compatibility.md)
   * [<i class="fas fa-microchip"></i> Pinout](pinout.md)
+  * [<i class="fas fa-exchange-alt"></i> GPIO](gpio.md)
 
 * I2C Only
   * [<i class="fas fa-code-branch"></i> How to switch to I2C](protocols.md)
