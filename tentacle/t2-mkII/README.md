@@ -30,9 +30,9 @@ _Works with_
 
 ## Downloads <!-- {docsify-ignore} -->
 * [Whitebox Interactive EZO Console](https://github.com/whitebox-labs/whitebox-ezo-console/archive/main.zip ':target=_blank')
-* [T2.16 Schematic (PDF)](https://github.com/whitebox-labs/tentacle-mini-oshw/raw/master/hardware/T2_mini_schematic.pdf)
-* [T2.16 3D-Model (STL)](https://github.com/whitebox-labs/tentacle-mini-oshw/raw/master/hardware/mechanical/tentacle_t2.STL) ([view online](https://github.com/whitebox-labs/tentacle-mini-oshw/blob/master/hardware/mechanical/tentacle_t2.STL))
-* [T2.16 3D-Model (STEP)](https://github.com/whitebox-labs/tentacle-mini-oshw/raw/master/hardware/mechanical/tentacle_t2.STEP.zip)
+* T2.21 Schematic (PDF) (available soon)
+* T2.21 3D-Model (STL) (available soon)
+* T2.21 3D-Model (STEP)] (available soon)
 
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
@@ -43,7 +43,7 @@ If you find bug in the documentation, examples or the schematic, feel free to cr
 ## Open Source <!-- {docsify-ignore} -->
 The Whitebox T2 MkII Mini for Arduino is Open Source Hardware. Schematics and layout are licensed under [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Silkscreen graphics and the trade mark "Whitebox" are intellectual property of Whitebox Labs
 
-* [Hardware source files on GitHub](https://github.com/whitebox-labs/whitebox-t2) `git clone https://github.com/whitebox-labs/whitebox-t2.git`
+* Hardware source files on GitHub (available soon)
 
 Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 
