@@ -1,6 +1,6 @@
 # Pinout
 
-The Whitebox T2 Mini MkII connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other I/O pins are used.
+The Whitebox T2 Mini connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other I/O pins are used.
 
 ## Channel 1
 * Isolation: **No**

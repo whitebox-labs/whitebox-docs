@@ -2,7 +2,7 @@
 
 All EZO devices come with two protocols: `UART` and `I2C`. Factory default is `UART`, at a baudrate of `9600`.
 
-?> The Whitebox T2 Mini MkII is compatible with the `I2C` protocol only.
+?> The Whitebox T2 Mini is compatible with the `I2C` protocol only.
 
 ## Distinguish the protocols
 
@@ -20,7 +20,7 @@ All EZO devices come with two protocols: `UART` and `I2C`. Factory default is `U
 
 ## Set Protocol By Code
 
-!> On the Whitebox T2 Mini MkII, you can only switch from `I2C` to `UART` in code, but not back to I2C. After the switch to `UART` you can't use the EZO Circuit with the Whitebox T2 until switched back to `I2C` using another method.
+!> On the Whitebox T2 Mini, you can only switch from `I2C` to `UART` in code, but not back to I2C. After the switch to `UART` you can't use the EZO Circuit with the Whitebox T2 until switched back to `I2C` using another method.
 
 [filename](../common/ezo-protocols-code.md ':include')
 

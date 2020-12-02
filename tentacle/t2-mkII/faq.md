@@ -17,7 +17,7 @@ Try connecting to your EZO device after each of these steps:
 ## My readings are not correct
 [filename](../common/faq-readings-not-correct.md ':include')
 
-## Can I use the Whitebox T2 Mini MkII with another microcontroller (not Arduino)?
+## Can I use the Whitebox T2 Mini with another microcontroller (not Arduino)?
 
 Yes. Make sure to check out the [Electronic Specs](power.md).
 

@@ -8,7 +8,7 @@ _Atlas Scientific EZO-class devices are not included_
 
 ![Whitebox Logo](_media/whitebox_logo.png)
 
-## What's the Whitebox T2 MkII? <!-- {docsify-ignore} -->
+## What's the Whitebox T2? <!-- {docsify-ignore} -->
 An Arduino shield to host and individually isolate up to 5 EZO devices from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.) and Oxidation-Reduction Potential (ORP), RTD (Temperature) and many more. See [Compatibility](compatibility.md) all all compatible devices.
 
 * 2 fully isolated channels for _Atlas Scientific EZO Circuits_
