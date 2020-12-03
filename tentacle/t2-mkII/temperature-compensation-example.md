@@ -20,6 +20,6 @@ For this project you need:
 1. Open the Arduino IDE serial monitor `@9600 baud`
 1. See the stream of data coming in
 
-[](https://raw.githubusercontent.com/whitebox-labs/whitebox-arduino-example-code/main/temperature-compensation/temperature-compensation/temperature-compensation.ino':include :type=code arduino')
+[](https://raw.githubusercontent.com/whitebox-labs/whitebox-arduino-example-code/main/temperature-compensation/temperature-compensation.ino ':include :type=code arduino')
 
 [<i class="fab fa-github"></i> View on GitHub](https://github.com/whitebox-labs/whitebox-arduino-example-code/blob/main/temperature-compensation/temperature-compensation.ino)
