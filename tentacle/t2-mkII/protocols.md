@@ -1,4 +1,4 @@
-# How to switch to I2C
+# <i class="fas fa-code-branch"></i> How to switch to I2C
 
 All EZO devices come with two protocols: `UART` and `I2C`. Factory default is `UART`, at a baudrate of `9600`.
 

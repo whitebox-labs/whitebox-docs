@@ -1,4 +1,4 @@
-# Pinout
+# <i class="fas fa-microchip"></i> Pinout
 
 The Whitebox T2 Mini connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other I/O pins are used.
 
