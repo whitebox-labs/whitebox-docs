@@ -15,7 +15,7 @@
 * Code Examples
   * [<i class="fas fa-code"></i> Continuous readings](continuous-example.md)
   * [<i class="fas fa-code"></i> Temperature compensation](temperature-compensation-example.md)
-  * [<i class="fas fa-code"></i> Continuous, asynchronous readings](asynchronous-example.md)
+  * [<i class="fas fa-code"></i> Asynchronous readings](asynchronous-example.md)
   * [<i class="fas fa-download"></i> Download all examples (zip)](https://github.com/whitebox-labs/whitebox-arduino-example-code/archive/main.zip)
   * [<i class="fab fa-github"></i> Examples repository on GitHub](https://github.com/whitebox-labs/whitebox-arduino-example-code)
 

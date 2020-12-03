@@ -1,4 +1,4 @@
-# <i class="fas fa-code"></i> Continuous, Asynchronous Readings
+# <i class="fas fa-code"></i> Asynchronous Readings
 
 Often the Arduino should do several things at the same time - reading a pH value and updating a display. Or reading the temperature and sending it to a web API.
 
