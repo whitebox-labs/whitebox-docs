@@ -28,4 +28,4 @@ The Tentacle Mini is discontinued and replaced by the [Whitebox T2 Mini MkII](ht
 
 * Buy
   * [<i class="fas fa-shopping-cart"></i> Directly from Whitebox](https://www.whiteboxes.ch/shop/tentacle-mini/)
-  * [From a distributor](https://www.whiteboxes.ch/distributors)
+  * [<i class="fas fa-globe-americas"></i> From a distributor](https://www.whiteboxes.ch/distributors)

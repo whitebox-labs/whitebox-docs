@@ -25,4 +25,4 @@
 
 * Buy
   * [<i class="fas fa-shopping-cart"></i> Directly from Whitebox](https://www.whiteboxes.ch/shop/t2-mini-mk2/)
-  * [From a distributor](https://www.whiteboxes.ch/distributors)
+  * [<i class="fas fa-globe-americas"></i> From a distributor](https://www.whiteboxes.ch/distributors)
