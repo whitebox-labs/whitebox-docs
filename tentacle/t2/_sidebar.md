@@ -16,9 +16,9 @@ The Tentacle Mini is discontinued and replaced by the [Whitebox T2 Mini MkII](ht
   * [<i class="fas fa-code-branch"></i> How to switch to I2C](protocols.md)
 
 * Code Examples
-  * [<i class="fas fa-code-branch"></i> Continuous readings](continuous-example.md)
-  * [<i class="fas fa-code-branch"></i> Continuous, asynchronous readings](asynchronous-example.md)
-  * [<i class="fas fa-code-branch"></i> Interactive, bidirectional communications](interactive-example.md)
+  * [<i class="fas fa-code"></i> Continuous readings](continuous-example.md)
+  * [<i class="fas fa-code"></i> Continuous, asynchronous readings](asynchronous-example.md)
+  * [<i class="fas fa-code"></i> Interactive, bidirectional communications](interactive-example.md)
   * [<i class="fas fa-download"></i> Download all examples (zip)](https://github.com/whitebox-labs/tentacle-examples/archive/master.zip)
   * [<i class="fas fa-github"></i> Examples repository on GitHub](https://github.com/whitebox-labs/tentacle-examples)
 
