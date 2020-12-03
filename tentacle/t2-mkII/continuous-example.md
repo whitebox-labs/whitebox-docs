@@ -5,10 +5,10 @@ For this project you need:
 * 1 or 2 Whitebox T2
 * 2 or more Atlas Scientific EZO devices
 * Computer with Arduino IDE installed
-* Installed [<i class="fas fa-file-download"></i> EZO I2C Lib](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
+* Installed [<i class="fas fa-file-download"></i> EZO I2C Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
 
-## Install the EZO I2C Ezo_I2c_lib
-1. Download the [<i class="fas fa-file-download"></i> EZO I2C Lib](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
+## Install the EZO I2C Library
+1. Download the [<i class="fas fa-file-download"></i> EZO I2C Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
 1. Install the EZO I2C library by adding it via Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library...
 
 ## Run the code
