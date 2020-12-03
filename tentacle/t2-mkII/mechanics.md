@@ -1,4 +1,4 @@
-# Mechanical Specifications
+# <i class="fas fa-ruler-combined"></i> Mechanical Specifications
 
 * Dimensions: 68.6 x 53.3mm (91.2mm x 53.3 incl. BNC)
 * Weight: 45g

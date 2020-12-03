@@ -1,4 +1,4 @@
-# Compatibility
+# <i class="fas fa-puzzle-piece"></i> Compatibility
 
 ## Arduino Compatibility
 

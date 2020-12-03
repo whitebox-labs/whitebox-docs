@@ -1,4 +1,4 @@
-# GPIO
+# <i class="fas fa-exchange-alt"></i> GPIO
 
 Near the Arduino's digital IO pins there is a row of 4 GPIO:
 

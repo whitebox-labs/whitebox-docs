@@ -1,4 +1,4 @@
-# Continuously read multiple sensors
+# <i class="fas fa-code"></i> Continuously read multiple sensors
 
 For this project you need:
 * Arduino

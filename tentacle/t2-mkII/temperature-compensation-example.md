@@ -1,4 +1,4 @@
-# Temperature Compensation
+# <i class="fas fa-code"></i> Temperature Compensation
 
 For this project you need:
 * Arduino

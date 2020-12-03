@@ -1,4 +1,4 @@
-# Quickstart Tutorial
+# <i class="fas fa-angle-double-right"></i> Quickstart Tutorial
 
 ## Prerequisites
 For this quickstart tutorial you need:

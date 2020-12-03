@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# <i class="fas fa-question-circle"></i> Frequently Asked Questions
 
 ## Did you read the datasheets of your EZO Circuits?
 Atlas Scientific has done a great job in documenting their products in beautiful datasheets.
