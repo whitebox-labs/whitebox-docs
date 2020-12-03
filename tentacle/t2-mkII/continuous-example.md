@@ -1,5 +1,7 @@
 # <i class="fas fa-code"></i> Continuously read multiple sensors
 
+As simple as it gets - continuously read multiple EZO devices and send the result to the serial port.
+
 For this project you need:
 * Arduino
 * 1 or 2 Whitebox T2
@@ -8,8 +10,7 @@ For this project you need:
 * Installed [<i class="fas fa-file-download"></i> EZO I2C Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
 
 ## Install the EZO I2C Library
-1. Download the [<i class="fas fa-file-download"></i> EZO I2C Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
-1. Install the EZO I2C library by adding it via Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library...
+[filename](../common/install-ezo-i2c-lib.md ':include')
 
 ## Run the code
 ?> With the Whitebox T2, all your EZO Circuits must be in `I2C` mode.
