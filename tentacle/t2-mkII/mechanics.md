@@ -5,10 +5,9 @@
 
 ## Drawings
 
-* Mechanical Drawing (PDF) (coming soon)
-* [BNC Connector Mechanical Drawing (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/bnc_mechanical.pdf)
+* <i class="far fa-file-pdf"></i> [Mechanical Drawing](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/mechanical/whitebox-t2-mini-mkII-mechanical.pdf)
+* <i class="far fa-file-pdf"></i> [BNC Connector Mechanical Drawing (PDF)](https://github.com/whitebox-labs/tentacle/raw/master/hardware/mechanical/bnc_mechanical.pdf)
 
-## 3D Models
+## 3D Model
 
-* 3D Model (STL) (coming soon)
-* 3D Model (STEP) (coming soon)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/mechanical/whitebox-t2-mini-mkII.step.zip) (STEP)

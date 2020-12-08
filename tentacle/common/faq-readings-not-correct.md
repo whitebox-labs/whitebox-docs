@@ -6,4 +6,4 @@
 1. Make sure your probe is clean and in good condition. If your probe is dirty, check the probes datasheet to learn how to clean your probe.
 1. Use good quality probes.
 1. Ensure that the Whitebox T(x) boards solder joints are free of dirt, dust, humps of flux residue. This is most important around the BNC or SMA connectors and the pin headers for the EZO circuits, top and bottom side. Make sure the Arduino does not touch anything conductive. Note that antistatic mats are conductive. Don't place your Arduino directly on it.
-1. Read the troubleshooting sections of your EZO devices datasheet
+1. Read the troubleshooting sections of your circuits datasheet

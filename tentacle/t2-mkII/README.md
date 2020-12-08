@@ -30,9 +30,9 @@ _Works with_
 
 ## Downloads <!-- {docsify-ignore} -->
 * [Whitebox Interactive EZO Console](https://github.com/whitebox-labs/whitebox-ezo-console/archive/main.zip ':target=_blank')
-* T2.21 Schematic (PDF) (available soon)
-* T2.21 3D-Model (STL) (available soon)
-* T2.21 3D-Model (STEP)] (available soon)
+* <i class="far fa-file-pdf"></i> [Mechanical Drawing](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/mechanical/whitebox-t2-mini-mkII-mechanical.pdf)
+* <i class="far fa-file-pdf"></i> [Schematic](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/whitebox-t2-mkII-schematic.pdf)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/mechanical/whitebox-t2-mini-mkII.step.zip) (STEP)
 
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
@@ -41,11 +41,21 @@ If you find bug in the documentation, examples or the schematic, feel free to cr
 
 
 ## Open Source <!-- {docsify-ignore} -->
-The Whitebox T2 MkII Mini for Arduino is Open Source Hardware. Schematics and layout are licensed under [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Silkscreen graphics and the trade mark "Whitebox" are intellectual property of Whitebox Labs
+The Whitebox T2 MkII Mini for Arduino is Open Source Hardware. Schematics and layout are licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-* Hardware source files on GitHub (available soon)
+[![CC BY-SA 4.0][https://licensebuttons.net/l/by-sa/4.0/88x31.png]][http://creativecommons.org/licenses/by-sa/4.0/]
+[Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
+* Hardware source files on [<i class="fab fa-github"></i>GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw)
+
+<i class="fab fa-github"></i> [Hardware source files on GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw)
+
+`git clone https://github.com/whitebox-labs/whitebox-t2-oshw.git`
+
+ Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
+
+
 
 ## Buy <!-- {docsify-ignore} -->
 * From [our store](https://www.whiteboxes.ch/shop/t2-mini-mk2/) – we ship worldwide
