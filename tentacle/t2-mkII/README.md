@@ -37,17 +37,16 @@ _Works with_
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
 
-If you find bug in the documentation, examples or the schematic, feel free to create an issue or a pull request on GitHub.
+If you find bug in the documentation, examples or the schematic, feel free to create an issue or a pull request on <i class="fab fa-github"></i> [GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw).
 
 
 ## Open Source <!-- {docsify-ignore} -->
 The Whitebox T2 MkII Mini for Arduino is Open Source Hardware. Schematics and layout are licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution-ShareAlike 4.0 International License][http://creativecommons.org/licenses/by-sa/4.0/].
 
-[![CC BY-SA 4.0][https://licensebuttons.net/l/by-sa/4.0/88x31.png]][http://creativecommons.org/licenses/by-sa/4.0/]
+![CC BY-SA 4.0][https://licensebuttons.net/l/by-sa/4.0/88x31.png]
 [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-* Hardware source files on [<i class="fab fa-github"></i>GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw)
 
 <i class="fab fa-github"></i> [Hardware source files on GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw)
 
