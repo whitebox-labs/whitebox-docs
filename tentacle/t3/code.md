@@ -19,24 +19,16 @@ You’ll be presented with an interactive console:
 To list attached EZO devices, type:
 
 ```
-List_addr
+LIST
 ```
 
-**Factroy default addresses**
-* `EZO DO`: **97** _(0x61)_
-* `EZO ORP`: **98** _(0x62)_
-* `EZO pH`: **99** _(0x63)_
-* `EZO EC`: **100** _(0x64)_
-* `EZO RTD`: **102** _(0x66)_
-* `EZO PMP`: **103** _(0x67)_
-
-To directly connect to a certain circuit, type `ADDRESS,xx` (xx is the address of the circuit):
+To directly connect to a specific EZO device, type the address, followed by ":" and the a command for the EZO device. To read from a device, type `XX,r` (XX is the address of the circuit):
 
 ```
-ADDRESS,99
+99:r
 ```
 
-You’re now connected to the circuit at address `99`. To take a reading, type `r`. To get information about the circuit, type `i`.
+You’re now connected to the circuit at address `99`. Type any command to this device - e.g. try `status`. To get information about the circuit, type `i`.
 
 Grab the datasheet of your circuit and try out some other commands:
 
@@ -46,8 +38,10 @@ Grab the datasheet of your circuit and try out some other commands:
 To continuously poll the reading of a circuit, use the command `Poll`. Its parameter is the polling frequency - here 1.5 seconds:
 
 ```
-Poll,1.50
+POLL
 ```
+
+More commands are displayed when you start the script.
 
 ## 3rd-party Code
 ### Python 3
