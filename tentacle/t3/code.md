@@ -1,12 +1,12 @@
 # <i class="fas fa-code"></i> Code
 
-Download the Atlas Scientifics I2C example for Raspberry Pi. It gives you an console to interact with all attached EZO devices:
+Download the Whitebox EZO code for Raspberry Pi. It gives you an console to interact with all attached EZO devices:
 
-https://github.com/AtlasScientific/Raspberry-Pi-sample-code
+https://github.com/whitebox-labs/whitebox-raspberry-ezo
 
-or get the complete (incl USB etc) documentation: `git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git`
+or use git: `git clone https://github.com/whitebox-labs/whitebox-raspberry-ezo.git`
 
-With the Tentacle T3 for Raspberry Pi, only the `I2C` part of the above repository is relevant. Run the I2C code:
+Run the I2C code:
 
 ```
 sudo python i2c.py
