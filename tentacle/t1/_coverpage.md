@@ -7,7 +7,7 @@
 * Models T1.15A, T1.16
 
 [Buy](https://www.whiteboxes.ch/shop/tentacle/)
-[Learn](#introduction)
+[Learn](#legacy)
 
 
 <!-- background color -->

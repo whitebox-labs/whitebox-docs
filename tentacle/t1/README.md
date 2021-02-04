@@ -1,6 +1,12 @@
+# LEGACY <!-- {docsify-ignore} -->
+
+The Tentacle Shield for Arduino has been discontinued in 2021. It is replaced by the [Whitebox T1 MkII](https://www.whiteboxes.ch/shop/whitebox-t1/)
+
+This documentation will remain online. We'll continue support for the classic Tentacle Shield. .
+
 # Introduction
 
-This documentation is for **Tentacle Shield for Arduino**, models `T1.15A` and `T1.16`
+This documentation is for **Tentacle Shield for Arduino**, models `T1.15A` and `T1.16` (discontinued)
 
 ![Tentacle Shield](https://www.whiteboxes.ch/wp-content/uploads/2015/06/medium_schraeg_schatten1.jpg)
 
