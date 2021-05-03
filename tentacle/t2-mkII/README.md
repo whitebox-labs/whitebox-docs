@@ -1,6 +1,6 @@
 # Introduction
 
-This documentation is for **Whitebox T2 Mini MkII for Arduino**, model `T2.21`
+This documentation is for **Whitebox T2 Mini MkII for Arduino**, model `T2.21` both BNC and SMA version. Since May 2021 the T2 comes with SMA connectors.
 
 _Atlas Scientific EZO-class devices are not included_
 

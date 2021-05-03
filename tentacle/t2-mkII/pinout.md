@@ -6,7 +6,7 @@ The Whitebox T2 Mini connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other
 * Isolation: **No**
 * Footprint: EZO Circuit
 * Protocol: `I2C` only
-* Probe connector: BNC
+* Probe connector: SMA (BNC for boards manufactured before May 2021)
 * Best suited for:
  * `EZO RTD`
 * VCC: `5V`
@@ -17,7 +17,7 @@ The Whitebox T2 Mini connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other
 * Isolation: **Yes**, full power and data isolation
 * Footprint: EZO Circuit
 * Protocol: `I2C` only
-* Probe Connector: BNC
+* Probe Connector: SMA (BNC for boards manufactured before May 2021)
 * Best suited for:
  * `EZO pH`
  * `EZO ORP`
