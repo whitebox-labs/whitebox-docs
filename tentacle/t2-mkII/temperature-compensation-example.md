@@ -4,7 +4,7 @@ This example demonstrates how to do continuous *temperature compensated* reading
 
 For this project you need:
 * Arduino
-* 1 or 2 Whitebox T2
+* Whitebox T2
 * EZO RTD Temperature Circuit + EZO pH Circuit
 * Computer with Arduino IDE installed
 * Installed [<i class="fas fa-file-download"></i> EZO I2C Library](https://github.com/Atlas-Scientific/Ezo_I2c_lib/archive/master.zip)
