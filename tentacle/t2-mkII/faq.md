@@ -21,6 +21,4 @@ Try connecting to your EZO device after each of these steps:
 
 Yes. Make sure to check out the [Electronic Specs](power.md).
 
-If you wanted to connect the Whitebox  to a Raspberry Pi, Connect pins
-
 ?> Don't forget to connect the IOREF pin
