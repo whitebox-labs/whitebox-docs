@@ -11,7 +11,7 @@ Please download and read the datasheets of your EZO device:
 Try connecting to your EZO device after each of these steps:
 
 1. Have you tried the Whitebox Interactive EZO Console from the [Quickstart tutorial](quickstart.md)? There’s a good chance it can auto-detect your circuit.
-1. Try a putting your circuit into a different channel slot on the shield
+1. Try putting your circuit into a different channel on the shield
 1. [Manually switch](protocols.md#set-protocol-manually) your device to the other UART and to I2C.
 
 ## My readings are not correct

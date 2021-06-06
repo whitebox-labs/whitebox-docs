@@ -47,8 +47,8 @@ The Whitebox T2 Mini connects to Arduino pins 5V, GND, IOREF, SCL, SDA. No other
  * I2C: `IOREF`
 
 ### Pinout Channel 4 + 5
- ![Tentacle T3](/_media/channels4-5.png)
- * `INT` (Blue): Auxiliary pin used by some EZO devices for interrupts or other function.
+ ![Whitebox T2 ch 4+5](/_media/channel4+5.jpeg)
+ * `INT` (Blue): ALM pin used by some EZO devices for alarm functions.
  * `3V3` (Red): IOREF
  * `GND` (Black): GND
  * `SDA` (Green): I2C SDA

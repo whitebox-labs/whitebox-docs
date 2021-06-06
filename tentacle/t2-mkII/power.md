@@ -28,5 +28,5 @@ The IO-reference voltage pin of an Arduino is either 3.3V or 5V, depending on th
 !> A voltage of 3.3V or 5V must be applied to the IOREF pin. _every Arduino will do this for you automatically_
 
 ## Schematic
-* Download Schematic (PDF) (coming soon)
-* All Source Files (GitHub) (coming soon)
+* <i class="far fa-file-pdf"></i> [Schematic](https://github.com/whitebox-labs/whitebox-t2-oshw/raw/main/whitebox-t2-mkII-schematic.pdf)
+* <i class="fab fa-github"></i> [Hardware source files on GitHub](https://github.com/whitebox-labs/whitebox-t2-oshw)
