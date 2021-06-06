@@ -3,7 +3,7 @@
 As simple as it gets - continuously read multiple EZO devices and send the result to the serial port.
 
 For this project you need:
-* Arduino
+* Arduino R3 compatible board
 * 1 or 2 Whitebox T2
 * 2 or more Atlas Scientific EZO devices
 * Computer with Arduino IDE installed
