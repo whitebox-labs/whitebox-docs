@@ -1,15 +1,14 @@
 # <i class="fas fa-bolt"></i> Power
 
 ## Schematic
-* <i class="far fa-file-pdf"></i> [Schematic]()
-* <i class="fab fa-github"></i> [All Source Files on GitHub]()
+* <i class="far fa-file-pdf"></i> Schematic
+* <i class="fab fa-github"></i> All Source Files on GitHub
 
 ## Power Consumption
-* The Whitebox T3 draws ~**70**_mA_ @ 5V in standby (~**35**_mA_ per isolated channel)
 
 To estimate the total power consumption of your setup, **add the consumption of each of your EZO Circuits**
 
-On the Whitebox T3, the EZO devices are powered either by `3.3V` or `5V`. The voltage depends on which channel is used. See [Pinout](pinout.md) for all channels information.
+On the Whitebox T3, the EZO devices are powered either by `3.3V` or `5V`. The voltage depends on which port is used. See [Pinout](pinout.md) for all port information.
 
 [filename](https://raw.githubusercontent.com/whitebox-labs/whitebox-docs/master/tentacle/common/ezo-power-consumption.md ':include')
 
@@ -37,7 +36,7 @@ To make the Whitebox T3 and the EZO devices work well, they must be properly pow
 To find a suitable power supply for your Pi-T3 stack, you need to add all other devices in the setup:
 * Raspberry Pi power consumption
  * Raspberry Pi 3 B+ under full load: **980mA**
-  * [Official Raspberry Pi FAQ: Power requirements](https://www.raspberrypi.org/help/faqs/#powerReqs)
+  * [Official Raspberry Pi Documentation: Power Supply](https://www.raspberrypi.org/documentation/computers/raspberry-pi.html#power-supply)
   * [Raspberry Pi Power Consumption Benchmarks](https://www.pidramble.com/wiki/benchmarks/power-consumption)
 * Other boards / HATs
 * Peripherals - Displays, SSDs, etc.

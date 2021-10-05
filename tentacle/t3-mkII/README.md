@@ -11,12 +11,12 @@ _Atlas Scientific EZO-class devices are not included_
 ## What's the Whitebox T3 for Raspberry Pi? <!-- {docsify-ignore} -->
 A stackable add-on board for the Raspberry Pi to host up to 5 EZO-class devices from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.), Oxidation-Reduction Potential (ORP) temperature (RTD), CO2, O2, pressure, RGB-color and control dosing pumps (EZO-PMP).
 
-* 2 fully isolated channels for **Atlas Scientific EZO Circuits**
-* 1 non-isolated channel **Atlas Scientific EZO RTD Circuit**
-* 2 additional I2C channels for EZO devices with EZO Data connector and 3rd-party I2C devices
+* 2 fully isolated ports for **Atlas Scientific EZO Circuits**
+* 1 non-isolated port for **Atlas Scientific EZO RTD or EZO FLow**
+* 2 additional I2C ports for EZO devices with EZO Data connector and 3rd-party I2C devices
  * works with all EZO devices by Atlas Scientific
 * `I2C` only
-* Raspberry Pi HAT form factor, but **stackable**
+* Raspberry Pi HAT form factor, **stackable**
 
 ?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
 
@@ -33,11 +33,11 @@ A stackable add-on board for the Raspberry Pi to host up to 5 EZO-class devices 
 * [How to switch EZO Circuits to I2C](protocols.md)
 
 ## Downloads <!-- {docsify-ignore} -->
-* <i class="far fa-file-code"></i> [I2C Code](https://github.com/AtlasScientific/Raspberry-Pi-sample-code/raw/master/i2c.py)
-* <i class="far fa-file-pdf"></i> [Mechanical Drawing]()
-* <i class="far fa-file-pdf"></i> [Schematic]()
-* <i class="fas fa-cube"></i> [3D-Model]() (STL) [view online]()
-* <i class="fas fa-cube"></i> [3D-Model]() (STEP)
+* <i class="far fa-file-code"></i> [I2C Code](https://github.com/whitebox-labs/whitebox-raspberry-ezo)
+* <i class="far fa-file-pdf"></i> Mechanical Drawing
+* <i class="far fa-file-pdf"></i> Schematic
+* <i class="fas fa-cube"></i> 3D-Model (STL)
+* <i class="fas fa-cube"></i> 3D-Model (STEP)
 
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
@@ -52,7 +52,7 @@ The Whitebox T3 for Raspberry Pi is [certified](http://certificate.oshwa.org/cer
  `git clone https://github.com/whitebox-labs/whitebox-t3-oshw.git`
 
 ## Buy <!-- {docsify-ignore} -->
-* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/whitebox-t3-for-raspberry-pi/s) – we ship worldwide
+* From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/whitebox-t3-for-raspberry-pi) – we ship worldwide
 * or from a [distributor](https://www.whiteboxes.ch/distributors)
 
 *Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)

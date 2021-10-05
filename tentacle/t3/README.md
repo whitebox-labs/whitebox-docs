@@ -12,11 +12,11 @@ _Atlas Scientific EZO-class devices are not included_
 A stackable add-on board for the Raspberry Pi to host up to 5 EZO-class devices from [Atlas Scientific](https://www.atlas-scientific.com) to measure PH, Dissolved Oxygen, Electric Conductivity (E.C.), Oxidation-Reduction Potential (ORP) temperature (RTD) and control dosing pumps (EZO-PMP).
 
 * 2 fully isolated channels for **Atlas Scientific EZO Circuits**
-* 1 non-isolated channel **Atlas Scientific EZO RTD Circuit**
+* 1 non-isolated channel for **Atlas Scientific EZO RTD Circuit**
 * 2 additional I2C channels for EZO 5pin-sensors and 3rd-party I2C devices
  * works with the EZO-PMP embedded dosing pump.
 * `I2C` only
-* Raspberry Pi HAT form factor, but **stackable**
+* Raspberry Pi HAT form factor, **stackable**
 
 ?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
 

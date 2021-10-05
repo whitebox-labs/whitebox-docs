@@ -37,7 +37,7 @@ To make the Tentacle and the EZO devices work well, they must be properly powere
 To find a suitable power supply for your Pi-Tentacle stack, you need to add all other devices in the setup:
 * Raspberry Pi power consumption
  * Raspberry Pi 3 B+ under full load: **980mA**
-  * [Official Raspberry Pi FAQ: Power requirements](https://www.raspberrypi.org/help/faqs/#powerReqs)
+  * [Official Raspberry Pi Documentation: Power Supply](https://www.raspberrypi.org/documentation/computers/raspberry-pi.html#power-supply)
   * [Raspberry Pi Power Consumption Benchmarks](https://www.pidramble.com/wiki/benchmarks/power-consumption)
 * Other boards / HATs
 * Peripherals - Displays, SSDs, etc.
