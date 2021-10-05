@@ -20,7 +20,7 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 * Isolation: **Yes**, full power and data isolation
 * Footprint: EZO Circuit
 * Protocol: `I2C` only
-* Probe Connector: BNC
+* Probe Connection: SMA (female)
 * Best suited for:
   * `EZO pH`
   * `EZO ORP`
@@ -38,7 +38,7 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 * Isolation: **No**
 * Footprint: EZO Circuit
 * Protocol: `I2C` only
-* Probe Connector: BNC
+* Probe Connection: SMA (female)
 * Best suited for:
  * `EZO RTD`
  * `EZO Flow`
