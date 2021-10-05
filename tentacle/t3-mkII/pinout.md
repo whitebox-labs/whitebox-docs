@@ -1,4 +1,4 @@
-port# <i class="fas fa-microchip"></i> Pinout
+# <i class="fas fa-microchip"></i> Pinout
 
 The Whitebox T3 connects to these Raspberry Pi pins
 
@@ -52,6 +52,7 @@ When using the EZO Flow Meter Totalizer Circuit, the actual flow meter must be a
 * `R`: Red
 * `W`: White
 * `B`: Black
+
 ?> **IMPORTANT**: When using port 3 with EZO Flow, the Port 3 SMA connector must not be connected to anything
 
 ## Port 4 + 5
