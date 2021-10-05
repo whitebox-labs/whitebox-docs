@@ -12,4 +12,4 @@
 
 <!-- background color -->
 
-![color](#f0f0f0)
+![color](#ffffff)
