@@ -6,7 +6,7 @@ For this quickstart tutorial you need:
 * A Raspberry Pi (2, 3, 4, Zero - see [Compatibility](compatibility.md) for a full list)
 * A [Tentacle T3 for Raspberry Pi](https://www.whiteboxes.ch/shop/tentacle-t3-for-raspberry-pi/)
 
-!> **I2C only** The Tentacle T3 works with EZO circuits in `I2C` mode only. Before using your EZO Circuits with the Tentacle Mini, switch them to `I2C`. [How to switch EZO Circuits to I2C](protocols.md)
+!> **I2C only** The Tentacle T3 works with EZO circuits in `I2C` mode only. Before using your EZO Circuits with the Tentacle T3, switch them to `I2C`. [How to switch EZO Circuits to I2C](protocols.md)
 
 ## Preparing the Raspberry Pi
 
