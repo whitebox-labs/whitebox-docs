@@ -1,4 +1,4 @@
-![Tentacle T3](_media/tentacle_t3_drawing.png)
+![Whitebox T3](_media/whitebox_t3_drawing.png)
 
 * Getting started
   * [Introduction](/)

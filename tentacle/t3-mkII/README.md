@@ -49,7 +49,7 @@ The Whitebox T3 for Raspberry Pi is [certified](http://certificate.oshwa.org/cer
 
  <i class="fab fa-github"></i> [Hardware source files on GitHub]() Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
 
- `git clone https://github.com/whitebox-labs/tentacle-raspi-oshw.git`
+ `git clone https://github.com/whitebox-labs/whitebox-t3-oshw.git`
 
 ## Buy <!-- {docsify-ignore} -->
 * From our [<i class="fas fa-shopping-cart"></i> store](https://www.whiteboxes.ch/shop/whitebox-t3-for-raspberry-pi/s) – we ship worldwide

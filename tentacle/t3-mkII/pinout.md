@@ -2,17 +2,17 @@
 
 The Whitebox T3 connects to these Raspberry Pi pins
 
-| Physical Pin | BCM pin | Name       | on the Tentacle T3             |
+| Physical Pin | BCM pin | Name       | on the Whitebox T3             |
 |-------------:|:---------|:----------|:-------------------------------|
-| 1            | 3V3     | 3.3V Power | Power the I2C signal isolators |
-| 2            | 5V      | 5V Power   | Power the DC isolators         |
+| 1            | 3V3     | 3.3V Power | Power channel 4 + 5            |
+| 2            | 5V      | 5V Power   | Power channels 1 + 2           |
 | 9            | GND     | GND        | GND                            |
 | 3            | BCM 2   | SDA        | I2C SDA                        |
 | 5            | BCM 3   | SCL        | I2C SCL                        |
 
 The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transparent to other HATs - they can even be stacked on top and will work as usual.
 
-![Whitebox T3](/_media/whitebox-t3-channels.png)
+![Whitebox T3](/_media/whitebox-t3-channel-4-5.jpg)
 
 
 ## Channel 1 + 2
@@ -31,8 +31,8 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
  * Vcc: `5V `
  * I2C: `3.3V `
 * Voltages on the **isolated** (EZO) side:
- * Vcc: `5V`
- * I2C: `5V`
+ * Vcc: `3.9`
+ * I2C: `3.9`
 
 ## Channel 3
 * Isolation: **No**
@@ -47,7 +47,7 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 
 ## Channel 4 + 5
 * Isolation: **No**
-* Footprint: EZO Data Connector (e.g. to connect a Molex connector)
+* Footprint: EZO Data Connector (standard male 5 pin header, 2.54mm/0.1" spacing)
 * Protocol: `I2C` only
 * Best suited for:
  * 5pin EZO-Data devices like the EZO-PMP, EZO-CO2 or EZO-PRS
