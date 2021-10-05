@@ -2,7 +2,7 @@
 
 This documentation is for **Whitebox T1 for Arduino**, model `T1.21`
 
-![Whitebox T1](https://www.whiteboxes.ch/wp-content/uploads/2015/06/medium_schraeg_schatten1.jpg)
+![Whitebox T1](_media/whitebox-t1.jpg)
 
 _Atlas Scientific EZO-class devices are not included_
 
