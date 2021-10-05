@@ -12,7 +12,7 @@ The Whitebox T3 connects to these Raspberry Pi pins
 
 The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transparent to other HATs - they can even be stacked on top and will work as usual.
 
-![Whitebox T3](/_media/whitebox-t3-channel-4-5.jpg)
+![Whitebox T3](/_media/whitebox-t3-ports-4-5.jpg)
 
 
 ## Port 1 + 2
@@ -45,6 +45,15 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 * VCC: `3.3V`
 * I2C: `3.3V`
 
+### Port 3 Flow Connector
+
+When using the EZO Flow Meter Totalizer Circuit, the actual flow meter must be attached to the flow connector on the side. Solder the Atlas Flow connector board or your own custom connector to the T3.
+![Whitebox T3 Flow connector](/_media/whitebox-t3-flow.jpg)
+* `R`: Red
+* `W`: White
+* `B`: Black
+?> **IMPORTANT**: When using port 3 with EZO Flow, the Port 3 SMA connector must not be connected to anything
+
 ## Port 4 + 5
 * Isolation: **No**
 * Footprint: EZO Data Connector (standard male 5 pin header, 2.54mm/0.1" spacing)
@@ -56,7 +65,7 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 * I2C: `3.3V`
 
 ### Pinout Port 4 + 5
-![Whitebox T3](/_media/channels4-5.png)
+![Whitebox T3 port 4 + 5](/_media/whitebox-t3-ports-4-5-2.jpg)
 * `3V3`: 3.3V
 * `GND`: GND
 * `SDA`: I2C SDA
@@ -67,7 +76,7 @@ The Whitebox T3 does not "occupy" any pin exclusively. The T3 is mostly transpar
 
 ## Configuration pins
 The configuration pins allow to connect port configuration pins to your circuits or Raspberry GPIO pins.
-
+![Whitebox T3 pinout 4 + 5](/_media/whitebox-t3-port-config.jpg)
 
 
 ### Disable
