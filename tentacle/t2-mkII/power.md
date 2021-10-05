@@ -8,8 +8,6 @@
 
 **Add the consumption of each of your EZO Circuits**
 
-max. power @5V:
-
 [filename](../common/ezo-power-consumption.md ':include')
 
 ## Two power rails

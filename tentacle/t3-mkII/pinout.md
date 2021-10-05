@@ -76,8 +76,8 @@ When using the EZO Flow Meter Totalizer Circuit, the actual flow meter must be a
 
 
 ## Configuration pins
-The configuration pins allow to connect port configuration pins to your circuits or Raspberry GPIO pins.
-![Whitebox T3 pinout 4 + 5](/_media/whitebox-t3-port-config.jpg)
+Connect port configuration pins to your circuits or Raspberry GPIO pins.
+
 
 
 ### Disable
@@ -88,5 +88,7 @@ The isolators in port 1 and 2 can be disabled. If disabled, the EZO circuit is c
 ### ALM
 * `4`: port 4 ALM pin
 * `5`: port 5 ALM pin
+
+![Whitebox T3 port config](/_media/whitebox-t3-port-config.jpg)
 
 ?> **Tip with EZO-PMP**: You can use the ALM pin to know whether the pump is currently running or not. Connect the ALM pin to a Raspberry GPIO and read the pin state: if it's HIGH, the pump is running, if it's LOW, the pump is off.
