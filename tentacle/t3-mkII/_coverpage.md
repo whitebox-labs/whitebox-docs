@@ -1,4 +1,4 @@
-![logo](_media/whitebox_t3_drawing.png)
+![logo](_media/whitebox-t3.jpg)
 
 # Whitebox T3 MkII <small>for Raspberry Pi</small>
 

@@ -1,5 +1,3 @@
-![Whitebox T3](_media/whitebox_t3_drawing.png)
-
 * Getting started
   * [Introduction](/)
   * [<i class="fas fa-angle-double-right"></i> Quick start](quickstart.md)
