@@ -36,7 +36,7 @@ A stackable add-on board for the Raspberry Pi to host up to 5 EZO-class devices 
 * <i class="far fa-file-code"></i> [I2C Code](https://github.com/whitebox-labs/whitebox-raspberry-ezo)
 * <i class="far fa-file-pdf"></i> Mechanical Drawing
 * <i class="far fa-file-pdf"></i> Schematic
-* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-docs/raw/master/tentacle/t3-mkII/_media/tentacle-t3.step) (STEP)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-docs/raw/master/tentacle/t3-mkII/_media/whitebox-t3.step.zip) (STEP)
 
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
