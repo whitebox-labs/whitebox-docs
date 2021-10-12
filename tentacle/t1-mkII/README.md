@@ -36,7 +36,7 @@ _Works with_
 * [Whitebox Interactive EZO Console](https://github.com/whitebox-labs/whitebox-ezo-console/archive/main.zip ':target=_blank')
 * <i class="far fa-file-pdf"></i> Mechanical Drawing
 * <i class="far fa-file-pdf"></i> Schematic
-* <i class="fas fa-cube"></i> 3D-Model (STEP)
+* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-docs/raw/master/tentacle/t1-mkII/_media/whitebox-t1.step) (STEP)
 
 ## Support <!-- {docsify-ignore} -->
 For customer support, please use the [contact form](https://www.whiteboxes.ch/contact/) on our website.
