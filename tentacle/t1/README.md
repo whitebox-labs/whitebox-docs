@@ -60,7 +60,7 @@ The Tentacle Shield is [certified](http://certificate.oshwa.org/certification-di
 
 * [Hardware source files on GitHub](https://github.com/whitebox-labs/tentacle) `git clone https://github.com/whitebox-labs/tentacle.git`
 
-Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
+Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad.org/)
 
 ## Buy <!-- {docsify-ignore} -->
 * From [our store](https://www.whiteboxes.ch/shop/tentacle/) – we ship worldwide

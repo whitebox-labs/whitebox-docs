@@ -46,7 +46,7 @@ If you find bug in the documentation, examples or the schematic, please create a
 ## Open Source <!-- {docsify-ignore} -->
 The Whitebox T3 for Raspberry Pi is [certified](http://certificate.oshwa.org/certification-directory/) Open Source Hardware with UID CH000004. Schematics and layout are licensed under <i class="fab fa-creative-commons"></i> [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Silkscreen graphics and the trade mark “Tentacle” are intellectual property of Whitebox Labs
 
- <i class="fab fa-github"></i> [Hardware source files on GitHub]() Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
+ <i class="fab fa-github"></i> [Hardware source files on GitHub]() Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad.org/)
 
  `git clone https://github.com/whitebox-labs/whitebox-t3-oshw.git`
 

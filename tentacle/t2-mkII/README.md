@@ -52,7 +52,7 @@ The Whitebox T2 MkII Mini for Arduino is Open Source Hardware. Schematics and la
 
 `git clone https://github.com/whitebox-labs/whitebox-t2-oshw.git`
 
- Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad-pcb.org/)
+ Made with [![KiCAD logo](_media/kicad_logo_small.png)](http://kicad.org/)
 
 
 
