@@ -20,8 +20,8 @@
 | 7     | VISO    | Isolated voltage output  | 3.8  | 4.0 V   | Can be used for power indication LED, max draw 5mA. Do not connect to microcontroller gpio. |
 | 8     | GND_ISO | Isolated GND             | -    | -       | Can be used for power indication LED. Do not connect to any other GND.  |
 | 9     | PRB_GND | Probe Ground             | -    | -       |                           |
-| 10    | PRB     | Probe Coax Signal        | -    | -       | do not leave floating     |
-| 11    | PRB_GND | Probe Ground             | -    | -       | no on-board pull-up       |
+| 10    | PRB     | Probe Coax Signal        | -    | -       |                           |
+| 11    | PRB_GND | Probe Ground             | -    | -       |                           |
 | 12    | NC      | not connected            | -    | -       | leave floating            |
 
 ### EZO
