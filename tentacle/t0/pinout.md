@@ -30,7 +30,7 @@
 |-------|--------:|:-------------------------|:-----|:-------|
 | EZO 1 | GND_ISO | Isolated voltage output  | -    | -      |
 | EZO 2 | SDA_ISO | Isolated I2C Data line   | 3.8V | 4.0 V  |
-| EZO 3 | SCL_ISO | Isolated Clock           | 3.8V | 4.0 V  |
+| EZO 3 | SCL_ISO | Isolated I2C Clock       | 3.8V | 4.0 V  |
 | EZO 4 | VISO    | Isolated voltage output  | 3.8  | 4.0 V  |
 | EZO 5 | PRB     | Probe Signal             | -    | -      |
 | EZO 6 | PRB_GND | Probe Ground             | -    | -      |
