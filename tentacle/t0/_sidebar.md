@@ -12,7 +12,7 @@
   * [<i class="fas fa-download"></i> Downloads](downloads.md)
 
 * Application examples
-  * [<i class="fas fa-code-branch"></i> PCB Layout](layout.md)
+  * [<i class="fas fa-industry"></i> PCB Layout](layout.md)
   * [<i class="fas fa-code-branch"></i> Minimal](minimal.md)
   * [<i class="fas fa-code-branch"></i> Enable / Disable](enable.md)
   * [<i class="fas fa-code-branch"></i> Separate voltages](voltages.md)
