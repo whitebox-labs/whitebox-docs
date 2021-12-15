@@ -10,10 +10,8 @@ The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuit
 
 * full power and signal isolation for **Atlas Scientific EZO Circuits**
 * enable / disable by gpio
-* fast and easy integration of electrochemical sensor into your design
+* fast and easy integration of electrochemical sensing into your product
 * OEM pricing
-
-?> **Built in electrical isolation** means that sensors won’t interfere with each other. It also removes outside electrical noise that can interfere with readings.
 
 <small>_Made by_</small>
 
@@ -21,10 +19,10 @@ The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuit
 
 <small>_Works with_</small>
 
-![Raspberry Pi Atlas Logo](_media/designed-for-raspberry-atlas.png)
+![Atlas Logo](_media/atlas-scientific.png)
 
 
 ## Buy <!-- {docsify-ignore} -->
-* The Whitebox T0 is available for OEM customers. Please [contact us](https://www.whiteboxes.ch/contact/) for a quote and samples.
+The Whitebox T0 is available for OEM customers. Please [contact us](https://www.whiteboxes.ch/contact/) for a quote and samples.
 
 *Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)
