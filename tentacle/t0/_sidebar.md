@@ -4,12 +4,12 @@
 * Hardware
   * [<i class="fas fa-ruler-combined"></i> Mechanics](mechanics.md)
   * [<i class="fas fa-puzzle-piece"></i> Compatibility](compatibility.md)
-  * [<i class="fas fa-microchip"></i> Pinout](pinout.md)
+  * [<i class="fas fa-plug"></i> Pinout](pinout.md)
 
 * Manufacturing
-  * [<i class="fas fa-bolt"></i> Footprint](footprint.md)
-  * [<i class="fas fa-bolt"></i> Component tray](tray.md)
-  * [<i class="fas fa-bolt"></i> Downloads](downloads.md)
+  * [<i class="fas fa-microchip"></i> Footprint](footprint.md)
+  * [<i class="fas fa-th"></i> Component tray](tray.md)
+  * [<i class="fas fa-download"></i> Downloads](downloads.md)
 
 * Application examples
   * [<i class="fas fa-code-branch"></i> PCB Layout](layout.md)

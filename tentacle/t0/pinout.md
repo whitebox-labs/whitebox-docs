@@ -1,4 +1,4 @@
-# <i class="fas fa-microchip"></i> Pinout
+# <i class="fas fa-plug"></i> Pinout
 
 ![Whitebox T0 Pinout](/_media/whitebox-t0-pinout.svg)
 
