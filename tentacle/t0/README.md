@@ -1,6 +1,6 @@
 # Introduction {docsify-ignore-all}
 
-This documentation is for **Whitebox T0 Isolator**, model `T0 Rev 2 and later`
+This documentation is for **Whitebox T0 Isolator**, model `T0 Rev 2` and later
 
 ![Whitebox T0](/_media/whitebox-t0.jpg)
 
@@ -19,7 +19,7 @@ The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuit
 
 <small>_Works with_</small>
 
-![Atlas Logo](_media/atlas-scientific.png)
+![Atlas Logo](_media/atlas_scientific.png)
 
 
 ## Buy <!-- {docsify-ignore} -->
