@@ -27,7 +27,7 @@
 ### EZO
 
 | Pin # | Signal  | Description              | min  | max    |
-|-------|--------:|:-------------------------|:-----|:-----.-|
+|-------|--------:|:-------------------------|:-----|:-------|
 | EZO 1 | GND_ISO | Isolated voltage output  | -    | -      |
 | EZO 2 | SDA_ISO | Isolated I2C Data line   | 3.8V | 4.0 V  |
 | EZO 3 | SCL_ISO | Isolated Clock           | 3.8V | 4.0 V  |
