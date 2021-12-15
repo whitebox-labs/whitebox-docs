@@ -1,4 +1,4 @@
-![logo](_media/whitebox-t3.jpg)
+![logo](_media/whitebox-t0.jpg)
 
 # Whitebox T0 <small>Isolator</small>
 
@@ -6,8 +6,7 @@
 
 * Model T0
 
-[Buy](https://www.whiteboxes.ch/shop/whitebox-t0/)
-[Learn](#introduction)
+[Docs](#introduction)
 
 
 <!-- background color -->
