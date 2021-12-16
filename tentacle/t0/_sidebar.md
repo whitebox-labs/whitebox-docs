@@ -1,6 +1,6 @@
 * [Introduction](/)
 
-* [<i class="fas fa-ruler-combined"></i> Mechanics](mechanics.md)
+* [<i class="fas fa-ruler-combined"></i> Dimensions](dimensions.md)
 * [<i class="fas fa-puzzle-piece"></i> Compatibility](compatibility.md)
 * [<i class="fas fa-plug"></i> Pinout](pinout.md)
 * [<i class="fas fa-power-off"></i> Enable / disable](enable.md)
