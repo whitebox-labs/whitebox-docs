@@ -1,4 +1,4 @@
-* [Introduction](/)
+* [Description](/)
 
 * [<i class="fas fa-ruler-combined"></i> Dimensions](dimensions.md)
 * [<i class="fas fa-puzzle-piece"></i> Compatibility](compatibility.md)

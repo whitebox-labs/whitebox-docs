@@ -1,9 +1,11 @@
-# Introduction {docsify-ignore-all}
+# Whitebox T0 Isolator Documentation
 
-This documentation is for **Whitebox T0 Isolator**, model `T0 Rev 2` and later
+# Description {docsify-ignore-all}
+
 
 ![Whitebox T0](/_media/whitebox-t0.jpg)
 
+This documentation is for **Whitebox T0 Isolator**, model `T0 Rev 2` and later
 
 ## What's the Whitebox T0 isolator? <!-- {docsify-ignore} -->
 The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuits are made by Atlas Scientific). The T0 is an SMD module and is designed to be mounted with a pick & place machine on a motherboard.
@@ -17,8 +19,15 @@ The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuit
 
 ![Whitebox Logo](_media/whitebox_logo.png)
 
-<small>_Works with_</small>
+# <i class="fas fa-puzzle-piece"></i> Compatibility
 
+## Microcontroller compatibility
+
+The T0 is compatible with 3.3V and 5V systems using the I2C protocol.
+
+## EZO Compatibility
+
+The T0 is compatible with all EZO Circuits made by Atlas Scientific
 ![Atlas Logo](_media/atlas_scientific.png)
 
 
