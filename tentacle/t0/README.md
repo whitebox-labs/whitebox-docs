@@ -18,11 +18,9 @@ The Whitebox T0 is an OEM module to host and isolate an EZO Circuit (EZO circuit
 
 
 ## Microcontroller compatibility
-
 The T0 is compatible with 3.3V and 5V systems using the I2C protocol.
 
 ## EZO Compatibility
-
 The T0 is compatible with all EZO Circuits made by Atlas Scientific
 
 ![Atlas Logo](_media/atlas_scientific.png)
