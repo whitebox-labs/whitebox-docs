@@ -1,8 +1,5 @@
 # Whitebox T0 Isolator Documentation
 
-# Description {docsify-ignore-all}
-
-
 ![Whitebox T0](/_media/whitebox-t0.jpg)
 
 This documentation is for **Whitebox T0 Isolator**, model `T0 Rev 2` and later
