@@ -23,9 +23,6 @@ The T0 is compatible with 3.3V and 5V systems using the I2C protocol.
 ## EZO Compatibility
 The T0 is compatible with all EZO Circuits made by Atlas Scientific
 
-![Atlas Logo](_media/atlas_scientific.png)
-
-
 ## Buy <!-- {docsify-ignore} -->
 The Whitebox T0 is available for OEM customers. Please [contact us](https://www.whiteboxes.ch/contact/) for a quote and samples.
 
