@@ -1,6 +1,15 @@
 
-# <i class="fas fa-th"></i> Component tray <!-- {docsify-ignore} -->
+# <i class="fas fa-industry"></i> Manufacturing <!-- {docsify-ignore} -->
 
+## Assembly
+
+## Soldering
+
+## High Impedance Shorts
+
+## Testing
+
+## Re-usable Component Tray
 We provide a set of wooden, re-usable trays to be used in pick & place machines to OEM customers.
 
 The tray pictured below is for 54 T0s, measures 135mm x 224mm. We can adapt the size of the tray to your machine and production workflow.

@@ -1,5 +1,4 @@
 # <i class="fas fa-ruler"></i> Dimensions
 
+The Whitebox T0 is 14.5mm x 29.5mm on a 0.8mm PCB. 
 ![Minimal Example Schematic](_media/whitebox-t0-dimensions.svg)
-
-* <i class="fas fa-cube"></i> [3D-Model](https://github.com/whitebox-labs/whitebox-docs/raw/master/tentacle/t3-mkII/_media/whitebox-t3.step.zip) (STEP)
