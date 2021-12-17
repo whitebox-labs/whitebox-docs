@@ -18,19 +18,19 @@
 | Pin # | Signal | Description               | min   | max    | Remarks                   |
 |-------|-------:|:--------------------------|:------|:-------|---------------------------|
 | 7     | VISO    | Isolated voltage output  | 3.8  | 4.0 V   | Can be used for power indication LED, max draw 5mA. Do not connect to microcontroller gpio. |
-| 8     | GND_ISO | Isolated GND             | -    | -       | Can be used for power indication LED. Do not connect to any other GND.  |
-| 9     | PRB_GND | Probe Ground             | -    | -       |                           |
+| 8     | GND_ISO | Isolated Digital Ground  | -    | -       | Can be used for power indication LED. Do not connect to any other GND.  |
+| 9     | PRB_GND | Analog Probe Ground      | -    | -       |                           |
 | 10    | PRB     | Probe Coax Signal        | -    | -       |                           |
-| 11    | PRB_GND | Probe Ground             | -    | -       |                           |
+| 11    | PRB_GND | Analog Probe Ground      | -    | -       |                           |
 | 12    | NC      | not connected            | -    | -       | leave floating            |
 
 ### EZO
 
 | Pin # | Signal  | Description              | min  | max    |
 |-------|--------:|:-------------------------|:-----|:-------|
-| EZO 1 | GND_ISO | Isolated voltage output  | -    | -      |
+| EZO 1 | GND_ISO | Isolated Digital Ground  | -    | -      |
 | EZO 2 | SDA_ISO | Isolated I2C Data line   | 3.8V | 4.0 V  |
 | EZO 3 | SCL_ISO | Isolated I2C Clock       | 3.8V | 4.0 V  |
 | EZO 4 | VISO    | Isolated voltage output  | 3.8  | 4.0 V  |
 | EZO 5 | PRB     | Probe Signal             | -    | -      |
-| EZO 6 | PRB_GND | Probe Ground             | -    | -      |
+| EZO 6 | PRB_GND | Analog Probe Ground      | -    | -      |
