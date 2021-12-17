@@ -2,7 +2,7 @@
 # <i class="fas fa-code-branch"></i> Application Examples <!-- {docsify-ignore} -->
 
 ## Minimal Circuit
-
+The operating voltage is applied to VIN, VSIG and EN to fully power up the T0.
 ![Minimal Example Schematic](_media/whitebox-t0-minimal-circuit.svg)
 
 ## Enable Functionality
