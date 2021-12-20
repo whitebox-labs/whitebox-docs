@@ -1,3 +1,5 @@
+[![logo](_media/whitebox_docs_logo.png)](https://www.whiteboxes.ch/)
+
 * [Description](/)
 
 * [<i class="fas fa-ruler-combined"></i> Dimensions](dimensions.md)
