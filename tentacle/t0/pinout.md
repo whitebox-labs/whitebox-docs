@@ -1,5 +1,6 @@
 # <i class="fas fa-plug"></i> Pinout
 
+Pin 1 (VIN) is marked on the T0 PCB
 ![Whitebox T0 Pinout](/_media/whitebox-t0-pinout.svg)
 
 ## Microcontroller side
