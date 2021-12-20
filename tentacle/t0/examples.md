@@ -12,7 +12,7 @@ By pulling the EN pin HIGH or LOW, the T0 can be powered on and off using the mi
 ## Mixed Voltages
 The T0 can have different voltage supplies for the signal and power isolator. This is useful in mixed 3.3V/5V setups or when the MCU internal regulator can not provide enough power for the (potentially many) power isolators. VSIG must be lower than or equal to VIN.
 
-* VSIG powers the signal isolator and is the I/O reference voltage that defines I2C voltage levels
+* VSIG powers the signal isolator and is the I/O reference voltage defining I2C voltage levels
 * VIN powers the power isolator.
 
 ![Mixed Voltages Schematic](_media/whitebox-t0-voltages-circuit.svg)

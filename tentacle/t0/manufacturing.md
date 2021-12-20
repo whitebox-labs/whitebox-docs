@@ -2,6 +2,8 @@
 # <i class="fas fa-industry"></i> Manufacturing <!-- {docsify-ignore} -->
 
 ## Assembly
+* Pick location
+* Bottom fiducial positions
 
 ## Soldering
 
@@ -10,6 +12,7 @@
 Flux residue on the PCB can create high impedance shorts, making accurate readings impossible. Signs of a high impedance short are locked values to a certain value, slowly drifting values even in calibration solution and others.
 
 Flux residue should be removed - especially if you can measure a short with the technique described below. Remove the flux with a flux remover chemical matching the solder you use. Alternatively soak the board 20mins in alcohol or wash in an ultrasonic cleaner.
+
 
 ## Testing
 The most important test after assembly is to find high impedance shorts. A simple way to find such shorts is by using a 12V battery (or any other 12V power source). Apply the voltage across the 2 signals you want to test and inline a Voltmeter in the mV setting.
