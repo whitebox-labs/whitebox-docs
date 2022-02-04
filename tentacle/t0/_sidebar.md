@@ -1,5 +1,3 @@
-[![logo](_media/whitebox_docs_logo.png)](https://www.whiteboxes.ch/)
-
 * [Description](/)
 
 * [<i class="fas fa-ruler-combined"></i> Dimensions](dimensions.md)
@@ -10,4 +8,4 @@
 * [<i class="fas fa-code-branch"></i> Application examples](examples.md)
 * [<i class="fas fa-industry"></i> Manufacturing](manufacturing.md)
 * [<i class="fas fa-download"></i> Downloads](downloads.md)
-* [<i class="fas fa-shopping-cart"></i> Buy](buy.md)
+* [<i class="fas fa-shopping-cart"></i> Buy](https://www.whiteboxes.ch/shop/whitebox-t0-full-tray/)
