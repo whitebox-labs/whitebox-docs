@@ -39,7 +39,7 @@ Devices under test passes the test, if
 * No high impedance short between GND_ISO and PRB_GND
 * No high impedance shorts between PRB and PRB_GND
 
-If either test fails, clean the T0 solder points from flux residue, grease, etc and repeat the test.
+If either test fails, clean the T0 solder points and any other exposed pins/pads of the respective signals from flux residue, grease, etc and repeat the test.
 
 ### Testing procedure
 A quick way to find impedance shorts is by applying a voltage across the the two signals with an inline voltmeter. You need a 9V battery (or other 9V power source) and a voltmeter (e.g. a multimeter in the mV setting).
@@ -50,5 +50,6 @@ A quick way to find impedance shorts is by applying a voltage across the the two
 * Connect the positive battery pole (+) to the first signal (e.g. PRB)
 * Connect the positive test lead (red) of your voltmeter to the second signal (e.g. PRB_GND)
 * Connect the negative (black) test lead of your voltmeter to the negative battery pole (-).
+* Do not touch any parts of the test setup while taking the reading
 
-If your Voltmeter can detect a voltage >2mV, there is a high impedance short that can prevent good sensor readings. Remove fingerprints, dust, solder flux residue from the respective pads and pins on the PCB
+If your voltmeter can detect a voltage > 2mV, there is a high impedance short that can prevent good sensor readings. If the reading is <= 2mV, the test is passed.
