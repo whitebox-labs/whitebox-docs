@@ -19,8 +19,11 @@ The Tentacle T3 is compatible with:
 * `EZO ORP` Circuit
 * `EZO DO` Circuit
 * `EZO RTD` Circuit
-* `EZO FLOW` Circuit
 * `EZO Humidity` Circuit
+
+### NOT Compatible Devices
+_(the T5 does not prevent the below devices from working on the same Pi, but does not provide explicit connectors to attach them)_
+* `EZO FLOW` Circuit
 * `EZO PMP` Embedded Dosing Pump
 * `EZO PRS` Embedded Pressure Sensor
 * `EZO RGB` Embedded Color Sensor
