@@ -8,12 +8,13 @@ Works with all Arduino-compatibles using the R3 shield-layout.
 
 
 ### Compatible EZO devices
-* `EZO pH`
-* `EZO ORP`
-* `EZO EC`
-* `EZO DO`
-* `EZO RTD`
-* `EZO FLO`  FLow Meter Totalizer (_SMA version only_)
+* `EZO pH` Circuit
+* `EZO ORP` Circuit
+* `EZO EC` Circuit
+* `EZO DO` Circuit
+* `EZO RTD` Circuit
+* `EZO FLO` FLow Meter Totalizer Circuit (_T2 SMA version only_)
+* `EZO Humidity` Circuit
 * `EZO CO2` Embedded NDIR CO2 Sensor
 * `EZO O2` Embedded Oxygen Sensor
 * `EZO HUM` Embedded Humidity sensor

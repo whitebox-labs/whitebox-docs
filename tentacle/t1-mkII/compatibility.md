@@ -8,11 +8,12 @@ Works with all Arduino-compatibles using the R3 shield-layout.
 
 
 ### Compatible EZO devices
-* `EZO pH`
-* `EZO ORP`
-* `EZO EC`
-* `EZO DO`
-* `EZO RTD`
+* `EZO pH` Circuit
+* `EZO ORP` Circuit
+* `EZO EC` Circuit
+* `EZO DO` Circuit
+* `EZO RTD` Circuit
+* `EZO Humidity` Circuit
 * `EZO CO2` Embedded NDIR CO2 Sensor
 * `EZO O2` Embedded Oxygen Sensor
 * `EZO HUM` Embedded Humidity sensor
