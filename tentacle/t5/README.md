@@ -2,7 +2,7 @@
 
 This documentation is for **Whitebox T5 for Raspberry Pi**, model `T5.22`
 
-![Whitebox T5](/_media/whitebox-t5.jpg)
+![Whitebox T5](/_media/whitebox-t5-iso.jpg)
 
 _Atlas Scientific EZO-class devices are not included_
 
