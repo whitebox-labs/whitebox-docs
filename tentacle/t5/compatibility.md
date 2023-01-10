@@ -2,7 +2,7 @@
 
 ## Raspberry Pi Compatibility
 
-The Tentacle T3 is compatible with:
+The Tentacle T5 is compatible with:
 * Raspberry Pi 2 Model B
 * Raspberry Pi 3 Model B
 * Raspberry Pi 3 Model B+
