@@ -24,6 +24,7 @@ The T0 is compatible with 3.3V and 5V systems using the I2C protocol.
 The T0 is compatible with all EZO Circuits made by Atlas Scientific
 
 ## Buy <!-- {docsify-ignore} -->
-* From [our store](https://www.whiteboxes.ch/shop/whitebox-t0-full-tray/) – we ship worldwide
+* From [our store](https://www.whiteboxes.ch/shop/whitebox-t0/) – we ship worldwide
+* From [Atlas Scientific](https://atlas-scientific.com/electrical-isolation/whitebox-t0/)
 
 *Made in Switzerland* ![Switzerland](_media/its-flag-is-a-big-plus.png)

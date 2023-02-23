@@ -8,4 +8,4 @@
 * [<i class="fas fa-code-branch"></i> Application examples](examples.md)
 * [<i class="fas fa-industry"></i> Manufacturing](manufacturing.md)
 * [<i class="fas fa-download"></i> Downloads](downloads.md)
-* [<i class="fas fa-shopping-cart"></i> Buy](https://www.whiteboxes.ch/shop/whitebox-t0-full-tray/)
+* [<i class="fas fa-shopping-cart"></i> Buy](buy.md)
