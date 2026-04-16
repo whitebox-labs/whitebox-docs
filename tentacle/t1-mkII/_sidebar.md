@@ -21,7 +21,3 @@
 
 * Troubleshooting
   * [<i class="fas fa-question-circle"></i> FAQ](faq.md)
-
-* Buy
-  * [<i class="fas fa-shopping-cart"></i> Directly from Whitebox](https://www.whiteboxes.ch/shop/whitebox-t1/)
-  * [<i class="fas fa-globe-americas"></i> From a distributor](https://www.whiteboxes.ch/distributors)
